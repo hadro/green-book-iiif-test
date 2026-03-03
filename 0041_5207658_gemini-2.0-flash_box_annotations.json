@@ -4,14 +4,13 @@
   "items": [
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Economy — 1935 N. 5th St. — KANSAS CITY, KANSAS — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -29,14 +28,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Whitney's — 5th & Virginia — KANSAS CITY, KANSAS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -54,14 +52,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Cundiff — 5th & Quindarf — KANSAS CITY, KANSAS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -79,14 +76,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. E. Dawson — 1010 Yuma St. — MANHATTAN, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -104,14 +100,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. H. Jackson — 830 Yuma St. — MANHATTAN, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -129,14 +124,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. Folson — 112 N. Poplar — OTTAWA, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -154,14 +148,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. R. W. White — 821 Cypress — OTTAWA, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -179,14 +172,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. F. Williams — 2216 Grand Ave. — PARSONS, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -204,14 +196,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Womack — 2109 Morgan — PARSONS, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -229,14 +220,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Dunbar — 400 Vuincy St. — TOPEKA, KANSAS — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -254,14 +244,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. E. Slaughter — 1407 Monroe — TOPEKA, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -279,14 +268,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Macks' — 400 Quincy St. — TOPEKA, KANSAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -304,14 +292,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Power's Cafe — 116 E. 4th St. — TOPEKA, KANSAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -329,14 +316,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Oklahoma House — 517½ N. Main St. — WICHITA, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -354,14 +340,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Oklahoma Cafe — 517 N. Main St. — WICHITA, KANSAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -379,14 +364,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "A. Johnson — Valley Creek Road — ELIZABETHTOWN, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -404,14 +388,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. B. Tyler — Mile Stt. — ELIZABETHTOWN, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -429,14 +412,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "M. E. Wintersmith — S. Dixie Ave. — ELIZABETHTOWN, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -454,14 +436,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. J. Razor — 436 E. Main St. — HAZARD, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -479,14 +460,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. Jessie Richardson — HAZARD, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -504,14 +484,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Amy Cox — 813 Washington St.ffl — PADUCAH, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -529,14 +508,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. M. McGregor — 200 E. First St. — HOPKINSVILLE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -554,14 +532,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "L. McNary — 113 Liberty St. — HOPKINSVILLE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -579,14 +556,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "J. C. Hopkins — 128 Liberty St. — HOPKINSVILLE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -604,14 +580,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Burn's — Buford St. — LANCASTER, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -629,14 +604,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Hord's — Buford St. — LANCASTER, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -654,14 +628,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Plum's — Buford St. — LANCASTER, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -679,14 +652,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Hyatt's — Buford St. — LANCASTER, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -704,14 +676,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Hilltop — Bluford St. — LANCASTER, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -729,14 +700,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Warren & Francis — N. Campbell St. — LANCASTER, KENTUCKY — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -754,14 +724,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Lincoln Institute — LINCOLN RIDGE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -779,14 +748,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Allen — 2516 W. Madison St. — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -804,14 +772,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Pythian Temple — 10th & Chestnut — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -829,14 +796,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Walnut — 615 Walnut St. — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -854,14 +820,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Y. W. C. A. — 528 S. 6th St. — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -879,14 +844,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "May's — 623 S. 10th St. — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -904,14 +868,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Lee L. Brown — 1014 W. Chestnut — LOUISVILLE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -929,14 +892,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Hattie Daniels — 1512 W. Chestnut — LOUISVILLE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -954,14 +916,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Eatmore — 964 S. 12th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -979,14 +940,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "White Swann — 1208 W. Walnut — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1004,14 +964,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Honey Dripper — 1208 Breckinridge St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1029,14 +988,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Jones — 525 S. 13th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1054,14 +1012,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Du Rez — Madison & 26th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1079,14 +1036,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Honey Dripper — 1212 W. Breckenridge St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1104,14 +1060,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Thompson's — 419 So. 19th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1129,14 +1084,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Harry's — 28th & Chestnut Sts. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1154,14 +1108,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "W. & H. — 432 S. 18th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1179,14 +1132,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "California — 1604 Gallagher St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1204,14 +1156,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Club Hollywood — 813 S. 6th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1229,14 +1180,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Jone's — 525 S. 13th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1254,14 +1204,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "West End — 1929 W. Walnut St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1279,14 +1228,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Scotty's — 442 So. 21st St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1304,14 +1252,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Bellonia — 1625 Callagher St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1329,14 +1276,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mae Ella's — 1110 W. Walnut St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1354,14 +1300,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "McKissick's — 505 S. 8th St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1379,14 +1324,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Scotty — 422 S. 21st St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1404,14 +1348,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Elizabeth's — 962 S. 12th St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1429,14 +1372,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Jones — 409 S. 18th St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1454,14 +1396,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Beauty Box — 922 W. Walnut. St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1479,14 +1420,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Rose's — 1813 W. Walnut St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1504,14 +1444,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Willie's — 639 S. 10th St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1529,14 +1468,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Hunter's — 1501 W. Chestnut St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1554,14 +1492,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Herman — 1601 W. Walnut St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1579,14 +1516,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Dave's — 13th & Magazine — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1604,14 +1540,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Del Rey — Madison & 26th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1629,14 +1564,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Palace — 12th & Walnut St. — LOUISVILLE, KENTUCKY — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1654,14 +1588,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Lyons — 16th & Walnut St. — LOUISVILLE, KENTUCKY — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1679,14 +1612,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Eade's — 2420 Cedar St. — LOUISVILLE, KENTUCKY — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
         "selector": [
           {

@@ -4,14 +4,13 @@
   "items": [
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. C. Taylor — 92 Spring St. — TRENTON, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -29,14 +28,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. M. Morris — 116 Spring St. — TRENTON, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -54,14 +52,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. Pleash — 88 Spring St. — TRENTON, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -79,14 +76,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. Garland — 62 Spring St. — TRENTON, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -104,14 +100,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Spot Sandwich — 121 Spring St. — TRENTON, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -129,14 +124,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Bea's — 83 Spring St. — TRENTON, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -154,14 +148,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Geraldine's — 17 Trent St. — TRENTON, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -179,14 +172,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Sanitary — 199 N. Willow St. — TRENTON, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -204,14 +196,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Bill's — 81 Spring St. — TRENTON, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -229,14 +220,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Famous — 228 N. Willow Street — TRENTON, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -254,14 +244,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Crossing Inn — Eggertt's Crossing — TRENTON, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -279,14 +268,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Reid's — 219 Fall St. — TRENTON, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -304,14 +292,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Celeste — 211 Springwood Ave. — VAUX HALL, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -329,14 +316,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Carnegie — 380 Carnegie Place — VAUX HALL, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -354,14 +340,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Lloyd Chicken Farm — 26 Valley — VAUX HALL, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -379,14 +364,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Glen Oak — 100 E. Lincoln St. — WILDWOOD, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -404,14 +388,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "The Marion — Artic & Spicer Ave. — WILDWOOD, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -429,14 +412,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Artic Ave. — 3600 Artic Ave. — WILDWOOD, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -454,14 +436,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "The Denmond — 129 W. Spicer Ave. — WILDWOOD, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -479,14 +460,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. A. H. Brown — 3811 Artic — WILDWOOD, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -504,14 +484,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. E. Crawley — 3816 Artic — WILDWOOD, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -529,14 +508,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Palm Leaf — 3812 Artic Ave. — WILDWOOD, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -554,14 +532,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "B. Johnson's — 407 Garfield Ave. — WILDWOOD, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -579,14 +556,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "R. Morton — 4010 New Jersey Ave. — WILDWOOD, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -604,14 +580,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "High Steppers — 437 Lincoln Ave. — WILDWOOD, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -629,14 +604,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Robinson's — 225 Park Ave. — WOODSBURY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -654,14 +628,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Pine Acres Country Club — Atlantic City — WEST PLEASANTVILLE, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -679,14 +652,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Broadway — 603 Broadway — ALBANY, NEW YORK STATE — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -704,14 +676,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. Aaron J. Oliver — 42 Spring St. — ALBANY, NEW YORK STATE — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -729,14 +700,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Broadway — 603 Broadway — ALBANY, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -754,14 +724,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Buelah Fords — 96 2nd St. — ALBANY, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -779,14 +748,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Martin's — 4 Vantromp St. — ALBANY, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -804,14 +772,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Ten Eyck — 137 Lark St. — ALBANY, NEW YORK STATE — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -829,14 +796,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Harlem Grill — Hamilton St. — ALBANY, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -854,14 +820,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Rythm Club — Madison Ave. — ALBANY, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -879,14 +844,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Little Harlem — 494 Michigan Ave. — BUFFALO, NEW YORK STATE — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -904,14 +868,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Y. M. C. A. — 585 Michigan Ave. — BUFFALO, NEW YORK STATE — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -929,14 +892,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Montgomery — 486 Michigan Ave. — BUFFALO, NEW YORK STATE — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -954,14 +916,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Vendome — 177 Clinton St. — BUFFALO, NEW YORK STATE — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -979,14 +940,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Claridge — 38 Broadway — BUFFALO, NEW YORK STATE — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1004,14 +964,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Miss R. Scott — 244 N. Division St. — BUFFALO, NEW YORK STATE — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1029,14 +988,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. F. Washington — 172 Clinton St. — BUFFALO, NEW YORK STATE — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1054,14 +1012,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. G. Chase — 192 Clinton St. — BUFFALO, NEW YORK STATE — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1079,14 +1036,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "William Campbell — 22 Milnor — BUFFALO, NEW YORK STATE — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1104,14 +1060,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Horseshoe — 198 Pine St. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1129,14 +1084,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Lou's — 154 Williams St. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1154,14 +1108,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Rozer's — Williams & Bennett — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1179,14 +1132,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Crystal — 534 Broadway — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1204,14 +1156,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Bar-B-Q — 413 Michigan Ave. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1229,14 +1180,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Empire — 454 Michigan Ave. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1254,14 +1204,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Silver Star — 175 Williams — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1279,14 +1228,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Elite — 168 Clinton — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1304,14 +1252,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Alma's — 314 Williams — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1329,14 +1276,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Chet & Als — 486 William St. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1354,14 +1300,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Standard — 66 Ridge St. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1379,14 +1324,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Pepper Pot — 377 Jefferson St. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1404,14 +1348,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Apex — 311 William St. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1429,14 +1372,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Arnold's — 348 William St. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1454,14 +1396,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Kam Wing Loo — 433 Michigan Ave. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1479,14 +1420,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Orchid — 419 Pratt St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1504,14 +1444,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Melisey's — 236 William St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1529,14 +1468,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Artisian — 271 Spring St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1554,14 +1492,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "La Ritz — 348 Jefferson Ave. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1579,14 +1516,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Matchless — 169 Willam St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1604,14 +1540,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Edwards — 530 William St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1629,14 +1564,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Lady Esther — 243 E. Ferry St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1654,14 +1588,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Jean's — 142 Adams St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1679,14 +1612,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "La Grace — 620 Brodway — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1704,14 +1636,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Laura's — 643 Broadway — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1729,14 +1660,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Rena's — 494 Jefferson Ave. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1754,14 +1684,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Modern's — 170 Clinton St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1779,14 +1708,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "La Mae — 437 Jefferson Ave. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1804,14 +1732,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Jessie's — 560 Spring St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1829,14 +1756,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Elite — 171 William St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1854,14 +1780,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "People's — 433 Williams St. — BUFFALO, NEW YORK STATE — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1879,14 +1804,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Pearls — 474 Michigan Ave. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1904,14 +1828,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Clover Leaf — 443 Michigan Ave. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1929,14 +1852,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Jefferson — 381 Jefferson — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1954,14 +1876,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Apex — 311 Williams St. — BUFFALO, NEW YORK STATE — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207673/full/!760,760/0/default.jpg",
         "selector": [
           {

@@ -4,14 +4,13 @@
   "items": [
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "M. E. Grant — 53 King St. — PITTSFIELD, MASSACHUSETTS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -29,14 +28,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. T. Dillard — 109 Linden St. — PITTSFIELD, MASSACHUSETTS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -54,14 +52,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. B. Jasper — 66 Dewey Ave. — PITTSFIELD, MASSACHUSETTS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -79,14 +76,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "J. Marshall — 124 Danforth Ave. — PITTSFIELD, MASSACHUSETTS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -104,14 +100,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. Taylor — 11 Oak St. — PLYMOUTH, MASSACHUSETTS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -129,14 +124,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "W. A. Gray — 47 Davis St. — PLYMOUTH, MASSACHUSETTS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -154,14 +148,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mary Lee Chicken Shack — 482 Main St. — RANDOLPH, MASSACHUSETTS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -179,14 +172,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. S. Gale — 168 Townsend St. — ROXBURY, MASSACHUSETTS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -204,14 +196,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Ruth's — 64 Humboldt St. — ROXBURY, MASSACHUSETTS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -229,14 +220,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Charm Grove — 90 Humboldt St. — ROXBURY, MASSACHUSETTS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -254,14 +244,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mme. Lovett — 68 Humboldt St. — ROXBURY, MASSACHUSETTS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -279,14 +268,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mac's — 8 Coventry St. — ROXBURY, MASSACHUSETTS — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -304,14 +292,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Thompson's — 1105 Tremont St. — ROXBURY, MASSACHUSETTS — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -329,14 +316,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Garfield's — 657 Shawnut St. — ROXBURY, MASSACHUSETTS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -354,14 +340,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Morgan's — 355 Warren St. — ROXBURY, MASSACHUSETTS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -379,14 +364,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Roxbury — 52 Laurel St. — ROXBURY, MASSACHUSETTS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -404,14 +388,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Douglas Square — 1002 Tremont St. — ROXBURY, MASSACHUSETTS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -429,14 +412,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Jaspan's — 134 Harold St. — ROXBURY, MASSACHUSETTS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -454,14 +436,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Modern — 26 Reed St. — SOUTH HANSON, MASSACHUSETTS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -479,14 +460,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. Mary B. Pina — 26 Reed St. — SOUTH HANSON, MASSACHUSETTS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -504,14 +484,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Park View House — Park St. — STOCKBRIDGE, MASSACHUSETTS — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -529,14 +508,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Joiner's — 97 Hancock Street — SPRINGFIELD, MASSACHUSETTS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -554,14 +532,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Law's — 18 Hawley St. — SPRINGFIELD, MASSACHUSETTS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -579,14 +556,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "American Cleaners — 433 Eastern Ave. — SPRINGFIELD, MASSACHUSETTS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -604,14 +580,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. M. Home — 3 Boynton St. — SWAMPSCOTT, MASSACHUSETTS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -629,14 +604,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Dixie — 143 Summer St. — WORCESTER, MASSACHUSETTS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -654,14 +628,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Moffett's — 47 Summer St. — WORCESTER, MASSACHUSETTS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -679,14 +652,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Buddy's — 118 Summer St. — WORCESTER, MASSACHUSETTS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -704,14 +676,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Bea's — 8 Carwell St. — WORCESTER, MASSACHUSETTS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -729,14 +700,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Kozarian's — 53 Summer St. — WORCESTER, MASSACHUSETTS — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -754,14 +724,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Bancroft — 24 Portland St. — WORCESTER, MASSACHUSETTS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -779,14 +748,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Bergwall — 238 Main St. — WORCESTER, MASSACHUSETTS — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -804,14 +772,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Watts — 10 High St. — WOBURN, MASSACHUSETTS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -829,14 +796,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "American — 123 Washington St. — ANN ARBOR, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -854,14 +820,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Allenel — 126 El Huron St. — ANN ARBOR, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -879,14 +844,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. E. M. Dickson — 144 Hill St, — ANN ARBOR, MICHIGAN — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -904,14 +868,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. F. Brown — 76 Walters Ave. — BATTLE CREEK, MICHIGAN — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -929,14 +892,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. P. Grayson — 22 Willow — BATTLE CREEK, MICHIGAN — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -954,14 +916,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. C. S. Walker — 709 W. Van Buren — BATTLE CREEK, MICHIGAN — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -979,14 +940,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Bayak's. Morgan, Prop. — BALDWIN, MICHIGAN — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1004,14 +964,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Nolph's Super Service — BALDWIN, MICHIGAN — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1029,14 +988,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Research Pleasure Club — 362 8th St. — ΒΕΝΤΟΝ HARBOR, MICHIGAN — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1054,14 +1012,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Kelsonia Inn — R. R. No. 1 — BITELY, MICHIGAN — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1079,14 +1036,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Royal Breeze — On State Rt. 37 — BITELY, MICHIGAN — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1104,14 +1060,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Touraine — 4614 John R. St. — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1129,14 +1084,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Gotham — 111 Orchestra Place — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1154,14 +1108,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mark Twain — E. Garfield & Woodward — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1179,14 +1132,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Biltmore — 1926 St. Antoine St. — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1204,14 +1156,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Tansey — 2474 Antoine St. — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1229,14 +1180,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Elizabeth — 413 E. Elizabeth St. — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1254,14 +1204,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Fox — 715 Madison St. — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1279,14 +1228,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Le Grande — 1365 Lafayette St. — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1304,14 +1252,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Norwood — 550 E. Adams St. — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1329,14 +1276,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Russell — 615 E. Adams St. — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1354,14 +1300,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Preyer — 2476 St. Antoine St. — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1379,14 +1324,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Crosstown — 4652 Hastings St. — DETROIT, MICHIGAN — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207663/full/!760,760/0/default.jpg",
         "selector": [
           {

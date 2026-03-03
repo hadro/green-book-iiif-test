@@ -4,14 +4,13 @@
   "items": [
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. Thomas — 516 N. Border St. — TYLER, TEXAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -29,14 +28,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "W. Langston — 1010 N. Border — TYLER, TEXAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -54,14 +52,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Casino — 504 West 3rd Street — TEXARKANA, TEXAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -79,14 +76,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Dutahess Tea Room — 1115 Capp St. — TEXARKANA, TEXAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -104,14 +100,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Carl Hill — 925 W. 20th St. — TEXARKANA, TEXAS — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -129,14 +124,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "B. Ashford — 902 N. 8th St. — WACO, TEXAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -154,14 +148,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Kirk's — 1114 S. First St. — WACO, TEXAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -179,14 +172,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Harlem — 123 Bridge — WACO, TEXAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -204,14 +196,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Ideal — 109 N. 2nd St. — WACO, TEXAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -229,14 +220,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Golden Lilly — 426 Clifton — WACO, TEXAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -254,14 +244,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Green Tree — 1325 S. 4th St. — WACO, TEXAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -279,14 +268,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Jockey Club — 2nd & Franklin St. — WACO, TEXAS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -304,14 +292,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Cendivilla — 107½ N. Second St. — WACO, TEXAS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -329,14 +316,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Cinderella — 1133 Earle St. — WACO, TEXAS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -354,14 +340,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Ideal — 1029 Taylor St. — WACO, TEXAS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -379,14 +364,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Earle St. — 1113 Earle St. — WACO, TEXAS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -404,14 +388,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mayfair — 112 Bridge St. — WACO, TEXAS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -429,14 +412,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Modern — 1406 Taylor St. — WACO, TEXAS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -454,14 +436,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Hine's — 1125 Earle St. — WACO, TEXAS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -479,14 +460,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Murphy's — 115 So. 2nd St. — WACO, TEXAS — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -504,14 +484,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Hick's — 2nd & Franklin St. — WACO, TEXAS — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -529,14 +508,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Malone — Clay & River St. — WACO, TEXAS — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -554,14 +532,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. A. Nunn — 413 E. Main St. — WAXAHACHIE, TEXAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -579,14 +556,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. M. Johnson — 427 E. Main St. — WAXAHACHIE, TEXAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -604,14 +580,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. N. Lowe — 418 E. Main St. — WAXAHACHIE, TEXAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -629,14 +604,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. N. Jones — 430 E. Main St. — WAXAHACHIE, TEXAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -654,14 +628,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Bridges — 404 Sullivan St. — WICHITA FALLS, TEXAS — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -679,14 +652,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "E. B. Jeffrey — 509 Juarez St. — WICHITA FALLS, TEXAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -704,14 +676,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "T. S. Jackson — Park St. — WICHITA FALLS, TEXAS — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -729,14 +700,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "New Hotel J. H. — 250 West So. Temple — SALT LAKE CITY, UTAH — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -754,14 +724,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "The Pates — 86-90 Archibald St. — BURLINGTON, VERMONT — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -779,14 +748,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "George E. Braxton — 191 Champlain St. — BURLINGTON, VERMONT — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -804,14 +772,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. William Sharper — 242 North St. — BURLINGTON, VERMONT — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -829,14 +796,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "McDermotts Esso Station — BURLINGTON, VERMONT — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -854,14 +820,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Clyde Blackwells — MANCHESTER, VERMONT — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -879,14 +844,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "J. H. Meade — 83 Strongs Ave. — RUTLAND, VERMONT — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -904,14 +868,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. A. J. Cole — 7 Sherman Ave. — NORTHFIELD, VERMONT — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -929,14 +892,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "H. Anderson — Near Fairgrounds E. End — ABINGTON, VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -954,14 +916,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. N. Brown — High St. — ABINGTON, VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -979,14 +940,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "J. T. Holmes — 803 Gibbon St. — ALEXANDRIA, VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1004,14 +964,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "J. A. Barrett — 724 Gibbon St. — ALEXANDRIA, VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1029,14 +988,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Bay Shore — BUCKROE BEACH, VIRGINIA — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1054,14 +1012,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Club 400 — BUCKROE BEACH, VIRGINIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1079,14 +1036,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Sessons Tavern — CARET, VIRGINIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1104,14 +1060,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Virginia Inn — W. Main St. — CHARLOTTESVILLE, VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1129,14 +1084,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Chauffeur's Rest — 129 Preston Ave. — CHARLOTTESVILLE, VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1154,14 +1108,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Alerander's — 413 Dyce St. — CHARLOTTESVILLE, VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1179,14 +1132,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Apex — 211 W. Main St. — CHARLOTTESVILLE, VIRGINIA — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1204,14 +1156,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Jokers — North 4th St. — CHARLOTTESVILLE, VIRGINIA — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1229,14 +1180,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Eureka — CHRISTIANBURG, VIRGINIA — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1254,14 +1204,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Yancey's — 320 Holbrook Street — DANVILLE, VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1279,14 +1228,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. M. K. Page — 434 Holbrook St. — DANVILLE, VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -1304,14 +1252,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. S. A. Overby — Holbrook St. — DANVILLE, VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207696/full/!760,760/0/default.jpg",
         "selector": [
           {

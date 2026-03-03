@@ -4,14 +4,13 @@
   "items": [
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "The Ross House — 911-8th Ave. — HUNTINGTON, WEST VIRGINIA — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -29,14 +28,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Southern — 921 8th Ave. — HUNTINGTON, WEST VIRGINIA — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -54,14 +52,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Massey's — 837 7th Ave. — HUNTINGTON, WEST VIRGINIA — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -79,14 +76,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. R. J. Lewis — 1412 10th Ave. — HUNTINGTON, WEST VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -104,14 +100,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. C. J. Barnett — 810 7th Ave. — HUNTINGTON, WEST VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -129,14 +124,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "J. Gross — 839 7th Ave. — HUNTINGTON, WEST VIRGINIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -154,14 +148,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Louise's — 821 19th St. — HUNTINGTON, WEST VIRGINIA — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -179,14 +172,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Monroe's — 1616 8th Ave. — HUNTINGTON, WEST VIRGINIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -204,14 +196,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "The Alpha — 1624 8th Ave. — HUNTINGTON, WEST VIRGINIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -229,14 +220,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Sterling — Cor. 12th St. & 3rd Ave. — HUNTINGTON, WEST VIRGINIA — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -254,14 +244,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "South Side — 716 8th Ave. — HUNTINGTON, WEST VIRGINIA — [Service Stations]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -279,14 +268,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "American Legion — 812 Avery St. — PARKERSBURG, WEST VIRGINIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -304,14 +292,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Capehart — 14 Virginia Ave. — WELCH, WEST VIRGINIA — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -329,14 +316,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. W. Turner — 114 12th St. — WHEELING, WEST VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -354,14 +340,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. C. Early — 132 12th St. — WHEELING, WEST VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -379,14 +364,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "R. Williams — 1007 Chapline St. — WHEELING, WEST VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -404,14 +388,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Singelery — 1043 Chapline St. — WHEELING, WEST VIRGINIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -429,14 +412,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Miss Hall — Chapline St. — WHEELING, WEST VIRGINIA — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -454,14 +436,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Miss Taylor — Chapline St. — WHEELING, WEST VIRGINIA — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -479,14 +460,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "American Legion — 1516 Main St. — WHEELING, WEST VIRGINIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -504,14 +484,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Elks Club — 1010 Chapline St. — WHEELING, WEST VIRGINIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -529,14 +508,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Brook's — 138 Church Street — WHITE SULPHUR\nSPRINGS, WEST VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -554,14 +532,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Haywood Place — Church St. — WHITE SULPHUR\nSPRINGS, WEST VIRGINIA — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -579,14 +556,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. E. Pirtle — 45 E. 11th St. — FOND DU LAC, WISCONSIN — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -604,14 +580,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "V. Williams — 97 S. Seymour St. — FOND DU LAC, WISCONSIN — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -629,14 +604,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "L. Shadd — 37 King St. — OSHKOSH, WISCONSIN — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -654,14 +628,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "F. Pemberton — 239 Liberty St. — OSHKOSH, WISCONSIN — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -679,14 +652,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. J. E. Edwards — 347 N. Grant — CASPER, WYOMING — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -704,14 +676,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "H. Keeling — 331 N. Grant — CASPER, WYOMING — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -729,14 +700,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "G. Anderson — 320 N. Lincoln St. — CASPER, WYOMING — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -754,14 +724,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Barbeque Inn — 622 W. 20th St. — CHEYENNE, WYOMING — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -779,14 +748,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. L. Randall — 612 W. 18th St. — CHEYENNE, WYOMING — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -804,14 +772,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "YELLOW FRONT — 111 EAST FRONT ST. — RAWLING, WYOMING — [Other]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {
@@ -829,14 +796,13 @@
     },
     {
       "type": "Annotation",
-      "motivation": "highlighting",
+      "motivation": "commenting",
       "body": {
         "type": "TextualBody",
         "value": "Mrs. R. Collins — 915 7th St. — ROCK SPRINGS, WYOMING — [Tourist Homes]",
         "format": "text/plain"
       },
       "target": {
-        "type": "SpecificResource",
         "source": "https://iiif.nypl.org/iiif/3/5207700/full/!760,760/0/default.jpg",
         "selector": [
           {

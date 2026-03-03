@@ -1,0 +1,1307 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Herb's — 1002 Center St. — DES MOINES, IOWA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=319,273,537,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"319\" y=\"273\" width=\"537\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eagle — 1955 Hubble Blvd. — DES MOINES, IOWA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=320,347,590,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"320\" y=\"347\" width=\"590\" height=\"30\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mumford's — 4th & Euclid Avenue — DES MOINES, IOWA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=319,375,732,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"319\" y=\"375\" width=\"732\" height=\"35\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Holgates — 6th & Oak Park — DES MOINES, IOWA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=318,410,598,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"318\" y=\"410\" width=\"598\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E & G — Keo Way & Crocker — DES MOINES, IOWA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=319,440,630,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"319\" y=\"440\" width=\"630\" height=\"32\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "4th Street — 417 4th St. — DES MOINES, IOWA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=320,513,505,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"320\" y=\"513\" width=\"505\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hiland — 705 - 6th Avenue — DES MOINES, IOWA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=320,543,620,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"320\" y=\"543\" width=\"620\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Andy's — E. University & Hubble — DES MOINES, IOWA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=316,614,710,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"316\" y=\"614\" width=\"710\" height=\"34\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "National — 808 - 12th Street — DES MOINES, IOWA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=316,686,644,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"316\" y=\"686\" width=\"644\" height=\"32\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clean Craft — 1300 - 6th Avenue — DES MOINES, IOWA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=315,719,721,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"315\" y=\"719\" width=\"721\" height=\"28\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adams — E. 5th & Locust St. — DES MOINES, IOWA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=318,791,627,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"318\" y=\"791\" width=\"627\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. P. Martin — 712 University Ave. — DUBUQUE, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=302,928,988,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"302\" y=\"928\" width=\"988\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Edwin Weaver — 795 Roberts Ave. — DUBUQUE, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=310,967,874,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"310\" y=\"967\" width=\"874\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. Rose — 802 N. Fellows — DUBUQUE, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=312,1106,664,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"312\" y=\"1106\" width=\"664\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "William Bailey — 526 Center Ave. — DUBUQUE, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=312,1138,743,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"312\" y=\"1138\" width=\"743\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. H. Hewitt — 512 Grant — DUBUQUE, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1168,563,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1168\" width=\"563\" height=\"28\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harry Owens — 814 W. Pershing — DUBUQUE, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1200,691,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1200\" width=\"691\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. B. F. Tredwell — 928 Beach St. — WATERLOO, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1334,794,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1334\" width=\"794\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Spencer — 220 Summer St. — WATERLOO, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1368,678,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1368\" width=\"678\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. Lee — 745 Vinton St. — WATERLOO, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=310,1398,632,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"310\" y=\"1398\" width=\"632\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geneva Miles — 924 N. 9th St. — ATCHISON, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=302,1617,783,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"302\" y=\"1617\" width=\"783\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. McDonald — 10th & Spruce — ATCHISON, KANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1690,777,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1690\" width=\"777\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henderson — 7th & Division St. — ATCHISON, KANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=309,1763,721,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"309\" y=\"1763\" width=\"721\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tourist Court — Juntion Rt. U. S. 24 — BOGUE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=310,1897,799,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"310\" y=\"1897\" width=\"799\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tourist Home — 618 E. 5th St. — COFFEYVILLE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=269,894,426,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"269\" y=\"894\" width=\"426\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. B. Johnson — 102 E. 2nd St. — CONCORDIA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,2174,725,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"2174\" width=\"725\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Glen McVey — 328 East St. — CONCORDIA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,2205,717,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"2205\" width=\"717\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elliott's — 816 Congress St. — EMPORIA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,2344,574,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"2344\" width=\"574\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Road House — Anderson's Highway 32 &\nBitts Creek — EDWARDSVILLE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1409,332,871,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1409\" y=\"332\" width=\"871\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hall's — 223½ E. Wall St. — FORT SCOTT, KANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,512,579,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"512\" width=\"579\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Peter Thomasun — 114 S. Ransom St. — FORT SCOTT, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1408,582,796,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1408\" y=\"582\" width=\"796\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Sanders — 1014 Shawnee — HIAWATHA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,731,758,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"731\" width=\"758\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. Lewis — 400 W. Sherman — HUTCHINSON, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,877,706,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"877\" width=\"706\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Major McBee — 418 S. 3rd St. — INDEPENDENCE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1022,639,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1022\" width=\"639\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bridgeforth — 311 E. 11th St. — JUNCTION CITY, KANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1171,633,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1171\" width=\"633\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. B. Jones — 229 E. 14th St . — JUNCTION CITY, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1244,712,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1244\" width=\"712\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. M. Madison — 828 W. 12th St. — LARNED, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1400,1398,852,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1400\" y=\"1398\" width=\"852\" height=\"35\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mose Madison — 518 W. 10th St. — LARNED, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,1431,853,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"1431\" width=\"853\" height=\"32\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. John Caro — E. 16th St. & Johnson Av. — LARNED, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,1463,972,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"1463\" width=\"972\" height=\"35\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Snowden's — 1933 Tennessee St. — LAURENCE, KANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,1607,663,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"1607\" width=\"663\" height=\"33\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. Hamilton — 720 N. 3rd St. — LEAVENWORTH, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,1758,769,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"1758\" width=\"769\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. Shelton — 216 Poplar St. — LEAVENWORTH, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1394,1787,728,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1394\" y=\"1787\" width=\"728\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Keystone Club — 4th & Freemen — KANSAS CITY, KANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,1943,693,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"1943\" width=\"693\" height=\"34\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Duck Inn — 5th & State Street — KANSAS CITY, KANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1394,1975,667,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1394\" y=\"1975\" width=\"667\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Famous — 12th & Forest — KANSAS CITY, KANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1394,2005,516,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1394\" y=\"2005\" width=\"516\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chat-Chew — 1908 N. 5th Street — KANSAS CITY, KANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1391,2036,695,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1391\" y=\"2036\" width=\"695\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Virgil's Place — 1622 Gray Road — KANSAS CITY, KANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1390,2069,684,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1390\" y=\"2069\" width=\"684\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M & T — 2013 E. 12th Street — KANSAS CITY, KANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1390,2098,678,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1390\" y=\"2098\" width=\"678\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "De Moss — 37th & Ben Balance Road — KANSAS CITY, KANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1395,2174,794,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1395\" y=\"2174\" width=\"794\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Flamingo — 1916 N. 5th St. — KANSAS CITY, KANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1394,2242,598,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1394\" y=\"2242\" width=\"598\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Congo — 1932 - 5th St. — KANSAS CITY, KANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1394,2273,498,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1394\" y=\"2273\" width=\"498\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dunn & McGee — 7th & Garfield — KANSAS CITY, KANSAS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207657/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1392,2348,697,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1392\" y=\"2348\" width=\"697\" height=\"31\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations/entry/51"
+    }
+  ],
+  "id": "https://joshhadro.github.io/green-book-iiif-test/0040_5207657_gemini-2.0-flash_box_annotations"
+}

@@ -1,0 +1,1807 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Marquette — 522 W. 9th St. — LITTLE ROCK, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=376,347,702,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"376\" y=\"347\" width=\"702\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Graysonia — 809 Gaines St. — LITTLE ROCK, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,379,566,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"379\" width=\"566\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Vincent — 522½ West 9th St. — LITTLE ROCK, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=369,411,736,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"369\" y=\"411\" width=\"736\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tuckers — 700½ W. 9th St. — LITTLE ROCK, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,439,609,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"439\" width=\"609\" height=\"35\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C & C — 522½ W. 9th St. — LITTLE ROCK, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=374,470,580,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"374\" y=\"470\" width=\"580\" height=\"34\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. T. Thomas — 1901 High St. — LITTLE ROCK, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=378,550,712,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"378\" y=\"550\" width=\"712\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lafayette — 904 State Street — LITTLE ROCK, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,583,570,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"583\" width=\"570\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lafayette — 904 State St. — LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,583,570,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"583\" width=\"570\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "College — 16th & Bishop — LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,696,519,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"696\" width=\"519\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Johnson's — 610 W. 9th St. — LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=381,727,579,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"381\" y=\"727\" width=\"579\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DeLuxe — 203 E. Washington — LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=371,756,634,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"371\" y=\"756\" width=\"634\" height=\"35\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DeLuxe — 724 W. 9th St. — LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=371,756,634,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"371\" y=\"756\" width=\"634\" height=\"35\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dean's — 904 State Street — LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,822,546,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"822\" width=\"546\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brown Bomber — W. 9th Street — LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,850,658,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"850\" width=\"658\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Myrtles — 1822 High St. — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,926,521,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"926\" width=\"521\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Woods — 16th & High St. — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,958,564,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"958\" width=\"564\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sue's — 919 W. 9th St. — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,987,488,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"987\" width=\"488\" height=\"31\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lafayette — 914 State Street — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,583,570,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"583\" width=\"570\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Velvatex — 1004 State Street — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,1097,760,37"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"1097\" width=\"760\" height=\"37\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Velvia — 814 Chester Ave. — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=378,1145,550,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"378\" y=\"1145\" width=\"550\" height=\"26\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ferguson's — 14th & High Street — LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,1217,681,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"1217\" width=\"681\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shangri-La — 904 State Street — LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,1286,629,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"1286\" width=\"629\" height=\"35\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lafayette — 9th & State Street — LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,583,570,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"583\" width=\"570\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Whitney — 524 W. 9th St. — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=375,1393,646,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"375\" y=\"1393\" width=\"646\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "East End — 1005½ Apperson — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,1426,624,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"1426\" width=\"624\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Century — 609 W. 9th St. — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,1457,540,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"1457\" width=\"540\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elite — 622 W. 9th St. — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,1487,488,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"1487\" width=\"488\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fontaine's — 710 W. 9th St. — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,1517,609,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"1517\" width=\"609\" height=\"32\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Century — 610 West 9th Street — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,1457,540,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"1457\" width=\"540\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Woods — 1523-High Street — LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,958,564,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"958\" width=\"564\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ritz — 1511 Wright Ave. — LITTLE ROCK, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=370,1654,530,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"370\" y=\"1654\" width=\"530\" height=\"30\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jones — 528 W. 9th St. — LITTLE ROCK, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,1687,487,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"1687\" width=\"487\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lee's — 1401 High St. — LITTLE ROCK, ARKANSAS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=374,1758,460,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"374\" y=\"1758\" width=\"460\" height=\"32\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spoon's — 14th & High St. — LITTLE ROCK, ARKANSAS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,1789,562,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"1789\" width=\"562\" height=\"33\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anderson — 8th & State St. — LITTLE ROCK, ARKANSAS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=375,1824,580,25"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"375\" y=\"1824\" width=\"580\" height=\"25\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fosters — 1400 W. 10th St. — LITTLE ROCK, ARKANSAS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=374,1893,581,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"374\" y=\"1893\" width=\"581\" height=\"30\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lee's — 9th & Chester Street — LITTLE ROCK, ARKANSAS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=374,1758,460,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"374\" y=\"1758\" width=\"460\" height=\"32\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Floyd — 602 W. 9th St. — LITTLE ROCK, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1435,288,516,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1435\" y=\"288\" width=\"516\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Children's — 9th & Gaines — LITTLE ROCK, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1435,316,534,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1435\" y=\"316\" width=\"534\" height=\"30\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miller — 916 Gaines St. — LITTLE ROCK, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1438,391,483,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1438\" y=\"391\" width=\"483\" height=\"26\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crenshaw — 709 W. 9th St. — LITTLE ROCK, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1435,421,580,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1435\" y=\"421\" width=\"580\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dunn — 2719 E. 2nd St. — LITTLE ROCK, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1435,454,531,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1435\" y=\"454\" width=\"531\" height=\"26\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Metropolitan — 618 W. 10th St. — LITTLE ROCK, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1435,485,674,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1435\" y=\"485\" width=\"674\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "B & F — 1005 Apperson St. — LITTLE ROCK, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1435,516,585,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1435\" y=\"516\" width=\"585\" height=\"28\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oasis — 1311 E. 3rd St. — North LITTLE ROCK, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1435,661,509,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1435\" y=\"661\" width=\"509\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "De Lux Court — 2720 E. Broadway — North LITTLE ROCK, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1424,733,758,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1424\" y=\"733\" width=\"758\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jim's — 908 Cedar St. N. L. R. — North LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1432,808,686,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1432\" y=\"808\" width=\"686\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nore Vean's — 1101 E. 6th St. — North LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1431,839,659,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1431\" y=\"839\" width=\"659\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ceats-Henry — No. 67 — North LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1435,872,483,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1435\" y=\"872\" width=\"483\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oasis — 1311 East 3rd Street — North LITTLE ROCK, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1435,661,509,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1435\" y=\"661\" width=\"509\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "College — 1523 High St. — North LITTLE ROCK, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,696,519,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"696\" width=\"519\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Benj. Williams — N. Main Street — CAMDEN, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1435,1153,804,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1435\" y=\"1153\" width=\"804\" height=\"28\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hugh Hill — S. Main Street — CAMDEN, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1438,1185,707,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1438\" y=\"1185\" width=\"707\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jim Summers — 717 S. Main Street — CAMDEN, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1436,1253,735,37"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1436\" y=\"1253\" width=\"735\" height=\"37\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Glady's — 219 E. Washington St. — CAMDEN, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1438,1329,742,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1438\" y=\"1329\" width=\"742\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lincoln — 215 E. Washington St. — CAMDEN, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1436,1390,702,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1436\" y=\"1390\" width=\"702\" height=\"34\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Patton's — 212 Short St. — CAMDEN, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1438,1465,504,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1438\" y=\"1465\" width=\"504\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daniel's — North Adams St. — CAMDEN, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1440,1496,578,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1440\" y=\"1496\" width=\"578\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jones — 309 Monroe St. — CAMDEN, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=372,1687,487,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"372\" y=\"1687\" width=\"487\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Package — 715½ Main St. — CAMDEN, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1439,1599,545,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1439\" y=\"1599\" width=\"545\" height=\"30\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Summers — 715½ S. Main Street — CAMDEN, ARKANSAS — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1436,1253,735,37"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1436\" y=\"1253\" width=\"735\" height=\"37\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mollette — N. Main Street — CAMDEN, ARKANSAS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1436,1694,552,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1436\" y=\"1694\" width=\"552\" height=\"30\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/61"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Hanson — Cross Street — SOUTH CAMDEN, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1439,1826,596,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1439\" y=\"1826\" width=\"596\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "P. K. — 3rd & Alabama Sts. — PINE BLUFF, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1446,1983,614,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1446\" y=\"1983\" width=\"614\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marietta — 3rd & Louisiana Sts. — PINE BLUFF, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1441,2011,677,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1441\" y=\"2011\" width=\"677\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith's — East Third St. — PINE BLUFF, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1444,2043,518,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1444\" y=\"2043\" width=\"518\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/65"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pee Kay — 300 E. 3rd Street — PINE BLUFF, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1441,2076,585,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1441\" y=\"2076\" width=\"585\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. K. L. Bell — 1111 W. 2nd Ave. — PINE BLUFF, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1441,2145,784,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1441\" y=\"2145\" width=\"784\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. J. Hollis — 1108 W. 2nd Ave. — PINE BLUFF, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1442,2177,756,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1442\" y=\"2177\" width=\"756\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shelton's — 200 E. 3rd Street — PINE BLUFF, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1442,2246,647,36"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1442\" y=\"2246\" width=\"647\" height=\"36\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/69"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Duck Inn — 405 N. Cedar Street — PINE BLUFF, ARKANSAS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1444,2280,694,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1444\" y=\"2280\" width=\"694\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nappy Chin — 217 State Street — PINE BLUFF, ARKANSAS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207646/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1439,2354,626,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1439\" y=\"2354\" width=\"626\" height=\"32\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations/entry/71"
+    }
+  ],
+  "id": "https://joshhadro.github.io/green-book-iiif-test/0029_5207646_gemini-2.0-flash_box_annotations"
+}

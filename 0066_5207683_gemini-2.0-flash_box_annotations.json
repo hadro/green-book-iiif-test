@@ -1,0 +1,1482 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. B. McCoy — 545 N. Church — LASCRICES, NEW MEXICO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=305,327,791,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"305\" y=\"327\" width=\"791\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Collins — 121 E. 10th St. — ROSWELL, NEW MEXICO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=302,463,822,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"302\" y=\"463\" width=\"822\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. Brown — 115 E. Walnut St. — ROSWELL, NEW MEXICO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=318,493,646,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"318\" y=\"493\" width=\"646\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sunset Cafe — 115 E. Walnut St. — ROSWELL, NEW MEXICO — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=312,565,697,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"312\" y=\"565\" width=\"697\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rockett Inn — 524 N. Campbell St. — TUCMCARI, NEW MEXICO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=305,703,741,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"305\" y=\"703\" width=\"741\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 360 College St. — ASHEVILLE, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,945,648,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"945\" width=\"648\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Booker T. Washington — 409 Southside Ave. — ASHEVILLE, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=310,975,935,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"310\" y=\"975\" width=\"935\" height=\"34\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Savoy — Eagle & Market St. — ASHEVILLE, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1009,598,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1009\" width=\"598\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Palace Grille — 19 Eagle St. — ASHEVILLE, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=304,1072,575,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"304\" y=\"1072\" width=\"575\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Butler's — Eagle & Market St. — ASHEVILLE, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=312,1144,643,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"312\" y=\"1144\" width=\"643\" height=\"32\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilson's — 13 Eagle St. — ASHEVILLE, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1219,497,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1219\" width=\"497\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilson's — Eagle & Market Sts. — ASHEVILLE, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1219,497,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1219\" width=\"497\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkin's — Eagle & Market Sts. — ASHEVILLE, NORTH CAROLINA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=300,1363,679,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"300\" y=\"1363\" width=\"679\" height=\"34\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lacy's Beauty Shop — BLADENBORO, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1503,418,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1503\" width=\"418\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Carthage Hotel — CARTHAGE, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1638,320,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1638\" width=\"320\" height=\"28\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bishop Dale — First & Brevard Sts. — CHARLOTTE, NORTH CAROLINA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,1774,744,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"1774\" width=\"744\" height=\"30\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Biltmore — E. Pettigrew St. — DURHAM, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=302,1909,596,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"302\" y=\"1909\" width=\"596\" height=\"28\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jones — 502 Ramsey St. — DURHAM, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=309,1941,505,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"309\" y=\"1941\" width=\"505\" height=\"28\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Congo Grill — Pettigrew St. — DURHAM, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=309,2014,561,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"309\" y=\"2014\" width=\"561\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Catlett's — 1502 Pettigrew St. — DURHAM, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=309,2044,609,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"309\" y=\"2044\" width=\"609\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elivira's — 801 Fayetteville St. — DURHAM, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=306,2075,682,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"306\" y=\"2075\" width=\"682\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "De Shazors — 809 Fayetteville St. — DURHAM, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,2151,689,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"2151\" width=\"689\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D'Orsay — 120 S. Mangum St. — DURHAM, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=309,2183,643,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"309\" y=\"2183\" width=\"643\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Friendly — 711 Fayetteville St. — DURHAM, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=306,2255,636,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"306\" y=\"2255\" width=\"636\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Blue Tavern — 801 Fayetteville St. — DURHAM, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=309,2328,719,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"309\" y=\"2328\" width=\"719\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hollywood — 118 S. Mangum St. — DURHAM, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=302,2361,687,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"302\" y=\"2361\" width=\"687\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Granite — Main & 9th St. — DURHAM, NORTH CAROLINA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1388,276,528,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"276\" width=\"528\" height=\"33\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Midway — Pine & Poplar Sts. — DURHAM, NORTH CAROLINA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1385,307,619,36"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1385\" y=\"307\" width=\"619\" height=\"36\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pine Street — 1102 Pine St. — DURHAM, NORTH CAROLINA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1389,342,567,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1389\" y=\"342\" width=\"567\" height=\"27\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union — 112 Parrish St. — DURHAM, NORTH CAROLINA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1386,414,493,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1386\" y=\"414\" width=\"493\" height=\"28\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Royal — 538 E. Pettegrew St. — DURHAM, NORTH CAROLINA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1389,448,610,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1389\" y=\"448\" width=\"610\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Blue Duck Inn — 404½ Ehringhaus — ELIZABETH CITY, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1386,578,749,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1386\" y=\"578\" width=\"749\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Royal Cafe — ELIZABETHTOWN, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1376,704,319,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1376\" y=\"704\" width=\"319\" height=\"35\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Liola's Beauty Salon — ELIZABETHTOWN, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1389,790,439,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1389\" y=\"790\" width=\"439\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gill's Grill — ELIZABETHTOWN, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1385,861,241,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1385\" y=\"861\" width=\"241\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Royal Cafe — ELIZABETHTOWN, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1376,704,319,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1376\" y=\"704\" width=\"319\" height=\"35\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bedford Inn — 203 Moore St. — FAYETTEVILLE, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1386,1020,606,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1386\" y=\"1020\" width=\"606\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Restful Inn — 418 Gillespie St. — FAYETTEVILLE, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1339,1051,699,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1339\" y=\"1051\" width=\"699\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. McNeill — 418 Gillespie St. — FAYETTEVILLE, NORTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1380,1124,749,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1380\" y=\"1124\" width=\"749\" height=\"31\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mayflower Grill — N. Hillsboro St. — FAYETTEVILLE, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1380,1199,719,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1380\" y=\"1199\" width=\"719\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Brown — Person St. — FAYETTEVILLE, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1379,1270,517,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1379\" y=\"1270\" width=\"517\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ethel's — Gillespie St. — FAYETTEVILLE, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1381,1305,447,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1381\" y=\"1305\" width=\"447\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DeLuxr — Pesno St. — FAYETTEVILLE, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1382,1374,402,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1382\" y=\"1374\" width=\"402\" height=\"31\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mack's — 117 Gillespie St. — FAYETTEVILLE, NORTH CAROLINA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1378,1409,546,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1378\" y=\"1409\" width=\"546\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bedford Inn — 203 Moore St. — FAYETTEVILLE, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1386,1020,606,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1386\" y=\"1020\" width=\"606\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Big Buster — Gillespie St. — FAYETTEVILLE, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1379,1511,541,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1379\" y=\"1511\" width=\"541\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Moore's — 613 Ramsey St. — FAYETTEVILLE, NORTH CAROLINA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1378,1588,541,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1378\" y=\"1588\" width=\"541\" height=\"28\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jeffrie's — Blount St. — FAYETTEVILLE, NORTH CAROLINA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1378,1657,430,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1378\" y=\"1657\" width=\"430\" height=\"33\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Square — GASTONIA, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1378,1787,287,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1378\" y=\"1787\" width=\"287\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Travelers Inn — 612 E. Market St. — GREENSBORO, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1378,1911,718,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1378\" y=\"1911\" width=\"718\" height=\"32\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Legion Club — 829 E. Market St. — GREENSBORO, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1369,1941,707,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1369\" y=\"1941\" width=\"707\" height=\"35\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dixie — 423 Lindsay St. — GREENSBORO, NORTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1366,1974,505,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1366\" y=\"1974\" width=\"505\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "T. Daniels — 912 E. Market St. — GREENSBORO, NORTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1371,2047,667,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1371\" y=\"2047\" width=\"667\" height=\"32\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. Evans — 906 E. Market St. — GREENSBORO, NORTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1366,2078,753,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1366\" y=\"2078\" width=\"753\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lewis — 829 E. Market St. — GREENSBORO, NORTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1366,2110,693,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1366\" y=\"2110\" width=\"693\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I. W. Wooten — 423 Lindsay St. — GREENSBORO, NORTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1364,2142,692,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1364\" y=\"2142\" width=\"692\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paramount — 907 E. Market St. — GREENSBORO, NORTH CAROLINA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1370,2210,666,39"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1370\" y=\"2210\" width=\"666\" height=\"39\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shoffners — 922 E. Market St. — GREENSBORO, NORTH CAROLINA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1370,2289,614,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1370\" y=\"2289\" width=\"614\" height=\"32\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "MabRae — 106 S. Macon St. — GREENSBORO, NORTH CAROLINA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207683/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1366,2361,590,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1366\" y=\"2361\" width=\"590\" height=\"32\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations/entry/58"
+    }
+  ],
+  "id": "https://joshhadro.github.io/green-book-iiif-test/0066_5207683_gemini-2.0-flash_box_annotations"
+}

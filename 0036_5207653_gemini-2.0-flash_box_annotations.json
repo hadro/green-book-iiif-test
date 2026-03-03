@@ -1,0 +1,1632 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Progressive — 1324 N. W. 1st Court — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=318,299,758,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"318\" y=\"299\" width=\"758\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Williams — 1214 N. W. 3rd Avenue — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=319,330,775,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"319\" y=\"330\" width=\"775\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elizabeth — 175 N. W. 11th Terrace — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=321,362,791,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"321\" y=\"362\" width=\"791\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charlows — 1730 N. W. 1st Court — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=321,394,733,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"321\" y=\"394\" width=\"733\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minnie's — 1469½ N. W. 5th Avenue — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=320,426,828,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"320\" y=\"426\" width=\"828\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sunlight — 1011 N. W. 2nd Avenue — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=321,499,751,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"321\" y=\"499\" width=\"751\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith's — 262 N. W. 17th St. — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=324,569,648,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"324\" y=\"569\" width=\"648\" height=\"32\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Star — 3rd Ave. & 15th St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=324,645,745,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"324\" y=\"645\" width=\"745\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fiesta — 627 N. W. 2nd Avenue — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=325,715,699,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"325\" y=\"715\" width=\"699\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cuban — 1701 N. W. 4th Avenue — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=328,787,717,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"328\" y=\"787\" width=\"717\" height=\"31\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ideal — 175 N. W. 11th St. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=328,822,581,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"328\" y=\"822\" width=\"581\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Plantation — N. W. 14th St. & 3rd Ave. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=326,853,870,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"326\" y=\"853\" width=\"870\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry's — 379 N. W. 14th St. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=326,884,672,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"326\" y=\"884\" width=\"672\" height=\"30\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valet — 506 N. W. 14th St. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=326,956,599,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"326\" y=\"956\" width=\"599\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brown's — N. W. 8th St. & 2nd Ave. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=328,1030,817,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"328\" y=\"1030\" width=\"817\" height=\"26\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wells Bilt — 509 W. South St. — ORLANDO, FLORIDA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=330,1164,664,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"330\" y=\"1164\" width=\"664\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rhumboogie — 509 E. Salamanca Street — PENSACOLA, FLORIDA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=330,1285,875,36"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"330\" y=\"1285\" width=\"875\" height=\"36\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reese — 307 E. Wright Street — PENSACOLA, FLORIDA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=330,1353,659,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"330\" y=\"1353\" width=\"659\" height=\"30\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brown's — 406 Lemon St. — SEBRING, FLORIDA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=328,1030,817,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"328\" y=\"1030\" width=\"817\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. H. Kelley — 83 Bridge St. — ST. AUGUSTINE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=334,1611,636,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"334\" y=\"1611\" width=\"636\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. G. Tye Apts. — -132 Central Avenue — ST. AUGUSTINE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=330,1643,851,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"330\" y=\"1643\" width=\"851\" height=\"31\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Central — 1028 Central Avenue — TAMPA, FLORIDA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=330,1643,851,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"330\" y=\"1643\" width=\"851\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dallas — 829 Zack St. — TAMPA, FLORIDA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=336,1802,485,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"336\" y=\"1802\" width=\"485\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DeLux — 822 Constant St. — TAMPA, FLORIDA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=336,1833,555,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"336\" y=\"1833\" width=\"555\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bruce's — 813 Scott St. — TAMPA, FLORIDA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=336,1893,485,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"336\" y=\"1893\" width=\"485\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Little Savory — Central & Scott — TAMPA, FLORIDA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=334,1958,660,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"334\" y=\"1958\" width=\"660\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Silver Bar Grill — 615 8th St. — WEST PALM BEACH, FLORIDA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=339,2082,643,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"339\" y=\"2082\" width=\"643\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. J. Ross — 514 Mercer St. — ALBANY, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=340,2307,744,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"340\" y=\"2307\" width=\"744\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. Davis — 313 South St. — ALBANY, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=342,2340,654,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"342\" y=\"2340\" width=\"654\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. Washington — 228 S. Jackson St. — ALBANY, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=342,2371,893,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"342\" y=\"2371\" width=\"893\" height=\"32\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Royal — 214 Auburn Ave., N. E. — ATLANTA, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,349,878,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"349\" width=\"878\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mack — 548 Bedford Place, N. E. — ATLANTA, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1405,381,721,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1405\" y=\"381\" width=\"721\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Savoy — 239 Auburn A. (formerly Roosevelt) — ATLANTA, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1408,413,962,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1408\" y=\"413\" width=\"962\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shaw — 245 Auburn Ave. — ATLANTA, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1410,445,535,25"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1410\" y=\"445\" width=\"535\" height=\"25\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James — 241 Auburn Ave. N. E. — ATLANTA, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1409,474,709,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1409\" y=\"474\" width=\"709\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "McKay — Auburn Ave. — ATLANTA, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1409,504,487,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1409\" y=\"504\" width=\"487\" height=\"33\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — -22 Butler St. — ATLANTA, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1414,537,586,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1414\" y=\"537\" width=\"586\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Connally — 125 Walnut St. N. W. — ATLANTA, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,611,976,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"611\" width=\"976\" height=\"32\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Suttons — 312 Auburn Ave. N. E. — ATLANTA, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1414,694,704,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1414\" y=\"694\" width=\"704\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dew Drop Inn — 11 Ashby St. N. E. — ATLANTA, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1399,726,772,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1399\" y=\"726\" width=\"772\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smitty's — Auburn Ave. N. E. — ATLANTA, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1416,757,626,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1416\" y=\"757\" width=\"626\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hawk's — 306 Auburn — ATLANTA, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1411,789,410,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1411\" y=\"789\" width=\"410\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah Man — 256 Auburn Ave. N. E. — ATLANTA, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1410,861,819,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1410\" y=\"861\" width=\"819\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sportmans Smoke Shop — 242Auburn N. E. — ATLANTA, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1414,892,915,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1414\" y=\"892\" width=\"915\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Butler's — 1868 Simpson Road — ATLANTA, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1414,924,640,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1414\" y=\"924\" width=\"640\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Poro — 250½ Auburn Avenue — ATLANTA, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1411,986,630,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1411\" y=\"986\" width=\"630\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Artistic — 55 Decatur — ATLANTA, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1418,1061,431,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1418\" y=\"1061\" width=\"431\" height=\"26\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gate City — 240 Auburn Ave., N. W. — ATLANTA, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1414,1090,826,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1414\" y=\"1090\" width=\"826\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Top Hat — Auburn Ave. N. E. — ATLANTA, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1414,1163,772,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1414\" y=\"1163\" width=\"772\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Posnciana — 143 Auburn Avenue — ATLANTA, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1410,1196,701,24"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1410\" y=\"1196\" width=\"701\" height=\"24\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harden's — 848 Hunter Ave. Cor. Belle — ATLANTA, GEORGIA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1414,1265,847,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1414\" y=\"1265\" width=\"847\" height=\"32\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hall's — 215 Auburn Ave., N. E. — ATLANTA, GEORGIA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1416,1300,700,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1416\" y=\"1300\" width=\"700\" height=\"27\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "South Side — 539 Fraser St., N. E. — ATLANTA, GEORGIA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1416,1362,770,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1416\" y=\"1362\" width=\"770\" height=\"27\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crimm's — 725 9th St. — AUGUSTA, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1418,1506,467,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1418\" y=\"1506\" width=\"467\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harlem — 1145 9th St. — AUGUSTA, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1416,1538,478,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1416\" y=\"1538\" width=\"478\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Beaseley — 1412 Twigg St. — AUGUSTA, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1420,1607,754,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1420\" y=\"1607\" width=\"754\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bollinger's — 1114 Gwennett St. — AUGUSTA, GEORGIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1420,1684,668,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1420\" y=\"1684\" width=\"668\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Palms — 1309 Glouster St. — BRUNSWICK, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1422,1827,649,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1422\" y=\"1827\" width=\"649\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lowes — 724 5th Ave. — COLUMBUS, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1420,1973,465,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1420\" y=\"1973\" width=\"465\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — -521 9th St. — COLUMBUS, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1414,537,586,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1414\" y=\"537\" width=\"586\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Economy Cafe — 519 8th St. — COLUMBUS, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1426,2076,585,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1426\" y=\"2076\" width=\"585\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ann's — 832 4th Ave. — COLUMBUS, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1426,2152,450,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1426\" y=\"2152\" width=\"450\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/61"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sherrell's — First Avenue — COLUMBUS, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1429,2222,501,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1429\" y=\"2222\" width=\"501\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Golden Rest — 1026 7th Ave. — COLUMBUS, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1428,2294,622,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1428\" y=\"2294\" width=\"622\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seventh Avenue — 816 7th Ave. — COLUMBUS, GEORGIA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207653/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1411,2367,660,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1411\" y=\"2367\" width=\"660\" height=\"31\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations/entry/64"
+    }
+  ],
+  "id": "https://joshhadro.github.io/green-book-iiif-test/0036_5207653_gemini-2.0-flash_box_annotations"
+}

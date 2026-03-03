@@ -1,0 +1,2082 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Burden — 508 McCall St. — DUBLIN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=310,368,726,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"310\" y=\"368\" width=\"726\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs, R. Hunter — 504 S. Jefferson — DUBLIN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,400,728,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"400\" width=\"728\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Kea — 405 S. Jefferson — DUBLIN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,432,678,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"432\" width=\"678\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. P. Cooper — 211 College St. — EASTMAN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=309,577,652,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"309\" y=\"577\" width=\"652\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Mariano — 408 1st Ave. — EASTMAN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=312,605,703,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"312\" y=\"605\" width=\"703\" height=\"32\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. Brown — Caanen Section — GREENSBORO, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=312,754,686,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"312\" y=\"754\" width=\"686\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. Jeter — Railroad Section — GREENSBORO, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=310,783,698,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"310\" y=\"783\" width=\"698\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. B. Walker — Springfield Section — GREENSBORO, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=311,817,771,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"311\" y=\"817\" width=\"771\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Douglas — 361 Broadway — MACON, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=314,960,528,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"314\" y=\"960\" width=\"528\" height=\"34\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richmond — 319 Broadway — MACON, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=315,994,571,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"315\" y=\"994\" width=\"571\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. C. Moore — 122 Spring St. — MACON, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=319,1064,747,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"319\" y=\"1064\" width=\"747\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brs. F. W. Henndon — 139 1st Ave. — MACON, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=315,1094,777,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"315\" y=\"1094\" width=\"777\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mables — Main Street — MACON, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=312,1171,460,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"312\" y=\"1171\" width=\"460\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red Front — 417 Wall St. — MACON, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=319,1202,572,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"319\" y=\"1202\" width=\"572\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jean's — 429 Cotton Avenue — MACON, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=318,1234,598,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"318\" y=\"1234\" width=\"598\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Side — 222 Dempsey Avenue — MACON, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=318,1265,724,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"318\" y=\"1265\" width=\"724\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marquiata — 554 New Street — MACON, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=312,1334,612,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"312\" y=\"1334\" width=\"612\" height=\"33\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Bonita — 455-Cotton Avenue — MACON, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=315,1366,684,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"315\" y=\"1366\" width=\"684\" height=\"31\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Carrie's — 133 Forest Avenue — MACON, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=304,1398,615,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"304\" y=\"1398\" width=\"615\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lula Life — 425 E. 2nd Street — MACON, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=306,1430,663,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"306\" y=\"1430\" width=\"663\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Huschel — 264 Broadway — MACON, GEORGIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=315,1503,534,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"315\" y=\"1503\" width=\"534\" height=\"28\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Community — 550 - 3rd Avenue — MACON, GEORGIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=312,1535,739,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"312\" y=\"1535\" width=\"739\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anderson's — Pursley at Pond Street — MACON, GEORGIA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=316,1602,786,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"316\" y=\"1602\" width=\"786\" height=\"35\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dreamland — 43rd & Hopkins St. — SAVANNAH, GEORGIA — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=316,1749,705,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"316\" y=\"1749\" width=\"705\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rudies' — 1827 Ogeechee Road — SAVANNAH, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=321,1821,634,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"321\" y=\"1821\" width=\"634\" height=\"32\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rose — 348 Price St. — SAVANNAH, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=319,1852,439,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"319\" y=\"1852\" width=\"439\" height=\"32\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "SCHOOL OF BEAUTY CULTURE — 456 Montgomery St. — SAVANNAH, GEORGIA — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=271,1891,777,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"271\" y=\"1891\" width=\"777\" height=\"34\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gibson's — 442 West Broad Street — SAVANNAH, GEORGIA — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=318,1994,920,43"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"318\" y=\"1994\" width=\"920\" height=\"43\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Moores' — 37th & Florence — SAVANNAH, GEORGIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=319,2081,556,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"319\" y=\"2081\" width=\"556\" height=\"33\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Halls — 1014 W. Broad St. — SAVANNAH, GEORGIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=328,2153,563,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"328\" y=\"2153\" width=\"563\" height=\"34\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cocoanut Grove — SAVANNAH, GEORGIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=328,2226,622,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"328\" y=\"2226\" width=\"622\" height=\"34\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. K. G. Scarlett — 843 Reynoids — WAY CROSS, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=325,2370,750,37"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"325\" y=\"2370\" width=\"750\" height=\"37\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ritz — 409 E. Oakwood Blvd. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1388,444,656,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"444\" width=\"656\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alpha — 2945 S. Michigan Blvd. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1394,474,698,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1394\" y=\"474\" width=\"698\" height=\"33\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Como — 5204 S. Parkway — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,505,545,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"505\" width=\"545\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Green Gables — 3920 S. Lake Park Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1399,537,850,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1399\" y=\"537\" width=\"850\" height=\"32\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Du Sable — 764 E. Oakwood Blvd. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,572,749,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"572\" width=\"749\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Strode — 820 E. Oakwood Blvd. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1401,603,657,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1401\" y=\"603\" width=\"657\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Almo — 3800 Lake Park Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1399,634,612,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1399\" y=\"634\" width=\"612\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Evans — 733 E. 61st St. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1399,665,512,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1399\" y=\"665\" width=\"512\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oakwood — 820 E. Oakwood Blvd. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1388,444,656,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"444\" width=\"656\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Perishing — 6400 Cottage Grove Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1401,728,777,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1401\" y=\"728\" width=\"777\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Praire — 2836 Praire Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1401,759,544,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1401\" y=\"759\" width=\"544\" height=\"28\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S & S — 4142 S. Park Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,791,560,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"791\" width=\"560\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southway — 6014 S. Parkway — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,822,619,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"822\" width=\"619\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spencer — 300 E. Garfield — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,853,530,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"853\" width=\"530\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Western — 6357 Champlain Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,880,680,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"880\" width=\"680\" height=\"35\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grand — 5044 S. Parkway — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,912,552,35"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"912\" width=\"552\" height=\"35\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tyson — 4259 S. Parkway — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1399,947,552,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1399\" y=\"947\" width=\"552\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vincennes — 601 E. 36th St. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1399,978,621,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1399\" y=\"978\" width=\"621\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 3763 S. Wabash Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1010,776,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1010\" width=\"776\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 4559 S. Parkway — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1405,1038,684,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1405\" y=\"1038\" width=\"684\" height=\"33\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Franklin — 3942 Indianna Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1069,664,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1069\" width=\"664\" height=\"32\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lincoln — 2901 State St. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1405,1101,517,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1405\" y=\"1101\" width=\"517\" height=\"32\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pompeii — 20 E. 31st St. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1136,530,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1136\" width=\"530\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Hazie — 3910 Indianna Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1164,700,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1164\" width=\"700\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clarilge — 51st & Michigan Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1401,1199,687,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1401\" y=\"1199\" width=\"687\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mabel Bank — 712 E. 44th St. — CHICAGO, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1280,654,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1280\" width=\"654\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Poro College — 4415 S. Parkway — CHICAGO, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1311,682,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1311\" width=\"682\" height=\"28\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Morris' — 410 E. 47th St. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1401,1395,555,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1401\" y=\"1395\" width=\"555\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wrights — 3753 S. Wabash Ave. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1401,1427,685,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1401\" y=\"1427\" width=\"685\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A & J — 105 E. 51st St. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1331,1456,591,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1331\" y=\"1456\" width=\"591\" height=\"34\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/61"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hurricane — 345 E. Garfield Blvd. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,1486,733,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"1486\" width=\"733\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pitts — 812 E. 39th St. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1386,1520,520,26"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1386\" y=\"1520\" width=\"520\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Palm Gardens — 720 E. Oakwood Blvd. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,1548,833,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"1548\" width=\"833\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "400 Club — 715 E. 63rd St. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1582,588,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1582\" width=\"588\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/65"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pioneer — 533 E. 43rd St. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1613,548,28"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1613\" width=\"548\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pershing — 755 East 64th Street — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1645,694,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1645\" width=\"694\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Matties' — 4212 Cottage Grove Ave. — CHICAGO, ILLINOIS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1724,754,34"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1724\" width=\"754\" height=\"34\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bank's — 209 E. 39th St. — CHICAGO, ILLINOIS — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1408,1808,536,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1408\" y=\"1808\" width=\"536\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/69"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The palm — 466 E. 47th St. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1405,1891,594,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1405\" y=\"1891\" width=\"594\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "El Casino — 823 E. 39th St. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1405,1923,601,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1405\" y=\"1923\" width=\"601\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/71"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Key Hole — 3965 S. Parkway — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1402,1956,613,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1402\" y=\"1956\" width=\"613\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/72"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boulevard Lounge — 104 E. 51st St. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1406,2035,753,32"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1406\" y=\"2035\" width=\"753\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/73"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "El Grotto — 6400 Cottage Grove Ave. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1405,2068,797,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1405\" y=\"2068\" width=\"797\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/74"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rhum-Boogie — 353 E. Garfield Blvd. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1405,2100,784,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1405\" y=\"2100\" width=\"784\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/75"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "820 Club — 820 E. 39th St. — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1408,2131,584,27"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1408\" y=\"2131\" width=\"584\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/76"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Show Boat — 6109 S. Parkway — CHICAGO, ILLINOIS — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1408,2161,633,30"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1408\" y=\"2161\" width=\"633\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/77"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Parkway — 5036 S. Parkway — CHICAGO, ILLINOIS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1396,505,545,31"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"505\" width=\"545\" height=\"31\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/78"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Waterford's — 6000 S. Wabash Ave. — CHICAGO, ILLINOIS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1411,2272,730,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1411\" y=\"2272\" width=\"730\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/79"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Standard — Garfield & S. Parkway — CHICAGO, ILLINOIS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1410,2304,722,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1410\" y=\"2304\" width=\"722\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/80"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "American Giants — 5900 S. Wabash Ave. — CHICAGO, ILLINOIS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1411,2335,848,29"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1411\" y=\"2335\" width=\"848\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/81"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "highlighting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Roosevelt — 4600 S. Wabash Ave. — CHICAGO, ILLINOIS — [Service Stations]",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://iiif.nypl.org/iiif/3/5207654/full/!760,760/0/default.jpg",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1411,2364,703,33"
+          },
+          {
+            "type": "SvgSelector",
+            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1411\" y=\"2364\" width=\"703\" height=\"33\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
+          }
+        ]
+      },
+      "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations/entry/82"
+    }
+  ],
+  "id": "https://joshhadro.github.io/green-book-iiif-test/0037_5207654_gemini-2.0-flash_box_annotations"
+}

@@ -1,0 +1,637 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hadro.github.io/green-book-iiif-test/test_a_annotations.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Pruitt's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=300,276,725,30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] DeLuxe",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=300,339,540,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Jefferson",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=305,371,635,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Anderson",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=305,434,683,29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Alley's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=302,496,662,30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Harlem",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=305,621,445,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Stark's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=305,736,674,29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Mrs. M. Jackson",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=302,851,659,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] E. Latimore",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=306,881,763,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Brown's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=306,1008,583,26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] G. C. Mackey",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=311,1070,680,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Grant's Cafe",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=304,1132,626,29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] M. B. Randall",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=302,1194,696,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] G. Powell",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=306,1256,575,29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Williams",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=302,1289,557,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Smith & Rand",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=311,1351,674,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Faustina Wilson",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=302,1568,873,36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Blue Bird Inn",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=304,1642,738,33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Bell's Cafe",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=309,1776,660,34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Winston Inn",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=298,1900,776,35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Rice's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=294,1934,628,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Mrs. L. Stewart",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=296,1996,776,30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Gardener's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=291,2029,779,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Alhambia",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=301,2089,909,37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Town Talk",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=305,2132,836,30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] H & H",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=305,2160,700,35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Walker's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=306,2190,769,35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Thelma's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=302,2257,672,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Copelands",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=309,2288,712,30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] M. Parker",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=309,2318,716,31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] C. Jackson",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=312,2351,730,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Hagler's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1366,281,626,30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Bryant's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1375,311,587,29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Vaughn's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,375,808,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] May's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1374,407,692,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Elks",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,467,588,29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Super",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,531,751,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Tourist",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=255,818,421,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Burly Ridue",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,645,716,29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] R. D. Davis",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1366,707,769,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Johnson's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,739,811,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Criterion Rooms",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1369,885,769,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Hill's Cafe",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1362,947,656,29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Brown's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=306,1008,583,26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Little Gem",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1348,1314,652,26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Success",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1374,1379,622,26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Schaeffer's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1375,1441,676,26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] The Roland",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1375,1584,667,29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Mrs. L. Augustas",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1375,1646,865,30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Pearl McKinney Lunch",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,1710,833,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Claren",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1369,1855,646,26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] La Silve",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,1916,446,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Taylor's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,1978,461,30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Collins",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1375,2009,455,29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] DeLuxe",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=300,339,540,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Stella's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,2073,468,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Stella's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,2073,468,27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] New Jerico",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1375,2137,667,26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Rosebud",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1374,2219,712,31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Clara's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,2258,462,26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Ruth's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1369,2290,495,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Clara's",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,2258,462,26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "[A] Golden West",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5207647/full/!760,760/0/default.jpg#xywh=1378,2353,670,28"
+    }
+  ]
+}

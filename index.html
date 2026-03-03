@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Green Book 1947 — IIIF Viewer</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body, #mirador { height: 100%; }
+  </style>
+</head>
+<body>
+  <div id="mirador"></div>
+
+  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+  <script>
+    Mirador.viewer({
+      id: "mirador",
+      windows: [
+        {
+          manifestId:
+            "https://hadro.github.io/green-book-iiif-test/manifest.json",
+          thumbnailNavigationPosition: "far-bottom",
+        },
+      ],
+      workspace: { showZoomControls: true },
+      workspaceControlPanel: { enabled: false },
+
+      // Tell OpenSeadragon to request tiles with crossOrigin="anonymous" so
+      // that WebGL compositing (and annotation overlays) work correctly when
+      // tiles are served from a different origin (iiif.nypl.org).
+      osdConfig: {
+        crossOriginPolicy: "Anonymous",
+        ajaxWithCredentials: false,
+      },
+    });
+  </script>
+</body>
+</html>

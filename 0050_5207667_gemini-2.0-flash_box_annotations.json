@@ -10,20 +10,7 @@
         "value": "Penrod — H'way 40-13 milee W. of Kansas City — KANSAS CITY, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,257,568,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"257\" width=\"568\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,257,568,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/0"
     },
     {
@@ -34,20 +21,7 @@
         "value": "Mrs. J. Osborne — Rt. 5 — LEBANON, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,433,374,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"433\" width=\"374\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,433,374,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/1"
     },
     {
@@ -58,20 +32,7 @@
         "value": "Mrs. Ann Wilson — Rt. 3 — LEBANON, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,464,402,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"464\" width=\"402\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,464,402,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/2"
     },
     {
@@ -82,20 +43,7 @@
         "value": "Mrs. Eliza Turner — Rt. 3 — LEBANON, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,496,405,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"496\" width=\"405\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,496,405,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/3"
     },
     {
@@ -106,20 +54,7 @@
         "value": "Mrs. F. Davis — 212 N. Ault St. — MOBERLY, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,630,500,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"630\" width=\"500\" height=\"28\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,630,500,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/4"
     },
     {
@@ -130,20 +65,7 @@
         "value": "Ralph Bass — 517 Winchester St. — MOBERLY, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,664,501,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"664\" width=\"501\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,664,501,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/5"
     },
     {
@@ -154,20 +76,7 @@
         "value": "W. Johnson — N. 5th St. 400 blk. — MOBERLY, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,694,522,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"694\" width=\"522\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,694,522,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/6"
     },
     {
@@ -178,20 +87,7 @@
         "value": "Mrs. W. Brooks — 1800 N. Alice St. — POPLAR BLUFF, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,839,563,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"839\" width=\"563\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,839,563,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/7"
     },
     {
@@ -202,20 +98,7 @@
         "value": "Mrs. T. L. Moore — 505 W. Cooper — SEDALIA, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,984,551,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"984\" width=\"551\" height=\"31\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,984,551,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/8"
     },
     {
@@ -226,20 +109,7 @@
         "value": "Mrs. C. Walker — 217 E. Morgan — SEDALIA, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1016,526,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1016\" width=\"526\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1016,526,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/9"
     },
     {
@@ -250,20 +120,7 @@
         "value": "W. Williams — 317 E. Johnson — SEDALIA, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1048,473,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1048\" width=\"473\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1048,473,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/10"
     },
     {
@@ -274,20 +131,7 @@
         "value": "U. G. Hardrick — 238 Dollison Ave. — SPRINGFIELD, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,1192,550,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"1192\" width=\"550\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,1192,550,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/11"
     },
     {
@@ -298,20 +142,7 @@
         "value": "Mrs. T. J. Coleman — 1713 Angelique St. — ST. JOSEPH, MISSOURI — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1338,636,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1338\" width=\"636\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1338,636,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/12"
     },
     {
@@ -322,20 +153,7 @@
         "value": "Midtown — 2935 Lawton Boulevard — ST. LOUIS, MISSOURI — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=540,1475,689,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"540\" y=\"1475\" width=\"689\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=540,1475,689,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/13"
     },
     {
@@ -346,20 +164,7 @@
         "value": "Booker Washington — Jefferson at Pine — ST. LOUIS, MISSOURI — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=540,1515,602,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"540\" y=\"1515\" width=\"602\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=540,1515,602,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/14"
     },
     {
@@ -370,20 +175,7 @@
         "value": "Poro — Pendleton & St. Ferdinand — ST. LOUIS, MISSOURI — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1548,526,25"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1548\" width=\"526\" height=\"25\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1548,526,25",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/15"
     },
     {
@@ -394,20 +186,7 @@
         "value": "West End — 3900 W. Beele St. — ST. LOUIS, MISSOURI — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1578,526,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1578\" width=\"526\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1578,526,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/16"
     },
     {
@@ -418,20 +197,7 @@
         "value": "Grand Central — Jefferson & Pine — ST. LOUIS, MISSOURI — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1609,509,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1609\" width=\"509\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1609,509,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/17"
     },
     {
@@ -442,20 +208,7 @@
         "value": "Calumet — 611 N. Jefferson Ave. — ST. LOUIS, MISSOURI — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,1640,508,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"1640\" width=\"508\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,1640,508,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/18"
     },
     {
@@ -466,20 +219,7 @@
         "value": "Corona — 2840 Olive St. — ST. LOUIS, MISSOURI — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1672,364,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1672\" width=\"364\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1672,364,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/19"
     },
     {
@@ -490,20 +230,7 @@
         "value": "Harlem — 3438 Franklin — ST. LOUIS, MISSOURI — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=543,1704,368,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"543\" y=\"1704\" width=\"368\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=543,1704,368,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/20"
     },
     {
@@ -514,20 +241,7 @@
         "value": "Antler — 3502 Franklin Ave. — ST. LOUIS, MISSOURI — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=540,1733,455,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"540\" y=\"1733\" width=\"455\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=540,1733,455,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/21"
     },
     {
@@ -538,20 +252,7 @@
         "value": "Bob's — 2816 Easton Avenue — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=544,1808,546,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"544\" y=\"1808\" width=\"546\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=544,1808,546,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/22"
     },
     {
@@ -562,20 +263,7 @@
         "value": "Oak Leaf — 4269 W. Easton Ave. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,1848,509,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"1848\" width=\"509\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,1848,509,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/23"
     },
     {
@@ -586,20 +274,7 @@
         "value": "Society — 900 N. Taylor Ave.-8 — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1880,486,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1880\" width=\"486\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1880,486,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/24"
     },
     {
@@ -610,20 +285,7 @@
         "value": "DeLuxe — 10 N. Jefferson Ave. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1911,473,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1911\" width=\"473\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1911,473,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/25"
     },
     {
@@ -634,20 +296,7 @@
         "value": "Seashore — 2829 Easton Ave. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1942,439,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1942\" width=\"439\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1942,439,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/26"
     },
     {
@@ -658,20 +307,7 @@
         "value": "Northside — 2422 N. Pendleton Ave. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1970,561,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1970\" width=\"561\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1970,561,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/27"
     },
     {
@@ -682,20 +318,7 @@
         "value": "Lindsey's — 3805 Page Blvd. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,2006,433,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"2006\" width=\"433\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,2006,433,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/28"
     },
     {
@@ -706,20 +329,7 @@
         "value": "Snack Shop — 1105 N. Taylor — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,2037,467,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"2037\" width=\"467\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,2037,467,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/29"
     },
     {
@@ -730,20 +340,7 @@
         "value": "Highway — 1239 N. 20th St. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=544,2067,456,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"544\" y=\"2067\" width=\"456\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=544,2067,456,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/30"
     },
     {
@@ -754,20 +351,7 @@
         "value": "Wike's — 1804 N. Taylor Ave. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=544,2097,483,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"544\" y=\"2097\" width=\"483\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=544,2097,483,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/31"
     },
     {
@@ -778,20 +362,7 @@
         "value": "Allen's — 2343 Market St. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,2166,388,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"2166\" width=\"388\" height=\"32\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,2166,388,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/32"
     },
     {
@@ -802,20 +373,7 @@
         "value": "Shaw's — 4356 Easton-13 — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,2202,372,25"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"2202\" width=\"372\" height=\"25\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,2202,372,25",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/33"
     },
     {
@@ -826,20 +384,7 @@
         "value": "Juvill — 4141 Easton-13 — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,2233,358,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"2233\" width=\"358\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,2233,358,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/34"
     },
     {
@@ -850,20 +395,7 @@
         "value": "Rosa's — 1222 Armstrong — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=539,2261,379,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"539\" y=\"2261\" width=\"379\" height=\"33\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=539,2261,379,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/35"
     },
     {
@@ -874,20 +406,7 @@
         "value": "Artistic — 1014 N. Whittier — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,2295,417,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"2295\" width=\"417\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,2295,417,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/36"
     },
     {
@@ -898,20 +417,7 @@
         "value": "Young's — 2005 Pine St. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,2326,374,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"2326\" width=\"374\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,2326,374,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/37"
     },
     {
@@ -922,20 +428,7 @@
         "value": "Artistic — 909 N. Taylor-8 — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,2295,417,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"2295\" width=\"417\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,2295,417,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/38"
     },
     {
@@ -946,20 +439,7 @@
         "value": "Azalie's — 4621 Easton Ave.-13 — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1337,258,470,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1337\" y=\"258\" width=\"470\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1337,258,470,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/39"
     },
     {
@@ -970,20 +450,7 @@
         "value": "Amanda's — 1021 N. Cardinal Ave.-6 — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1337,288,563,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1337\" y=\"288\" width=\"563\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1337,288,563,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/40"
     },
     {
@@ -994,20 +461,7 @@
         "value": "Ollie's — 3803 Page Blvd. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1337,320,388,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1337\" y=\"320\" width=\"388\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1337,320,388,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/41"
     },
     {
@@ -1018,20 +472,7 @@
         "value": "Boulevard — 1023 N. Grand Ave.-6 — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=540,1475,689,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"540\" y=\"1475\" width=\"689\" height=\"31\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=540,1475,689,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/42"
     },
     {
@@ -1042,20 +483,7 @@
         "value": "Parkway — 4284 W. St. & Ferdinand-13 — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1335,384,613,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1335\" y=\"384\" width=\"613\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1335,384,613,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/43"
     },
     {
@@ -1066,20 +494,7 @@
         "value": "Argus — 1008 N. Sarah St. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1337,415,406,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1337\" y=\"415\" width=\"406\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1337,415,406,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/44"
     },
     {
@@ -1090,20 +505,7 @@
         "value": "Hall's — 3038 Franklin Ave. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1335,446,423,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1335\" y=\"446\" width=\"423\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1335,446,423,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/45"
     },
     {
@@ -1114,20 +516,7 @@
         "value": "Beauty Nook — 3303 Lucas Ave. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1337,478,496,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1337\" y=\"478\" width=\"496\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1337,478,496,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/46"
     },
     {
@@ -1138,20 +527,7 @@
         "value": "Montgomery — 3406 Franklin Ave. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,510,531,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"510\" width=\"531\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,510,531,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/47"
     },
     {
@@ -1162,20 +538,7 @@
         "value": "Lottie's — 3026 Lawton — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,541,356,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"541\" width=\"356\" height=\"26\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,541,356,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/48"
     },
     {
@@ -1186,20 +549,7 @@
         "value": "Harris — 919 Ohio Avenue — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,570,414,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"570\" width=\"414\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,570,414,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/49"
     },
     {
@@ -1210,20 +560,7 @@
         "value": "McCain — 4702 A Newberry Terrace — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,602,557,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"602\" width=\"557\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,602,557,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/50"
     },
     {
@@ -1234,20 +571,7 @@
         "value": "Superior — 219 A N. Jefferson — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1335,633,460,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1335\" y=\"633\" width=\"460\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1335,633,460,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/51"
     },
     {
@@ -1258,20 +582,7 @@
         "value": "De Luxe — 3604 Finnery Ave. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,665,458,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"665\" width=\"458\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,665,458,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/52"
     },
     {
@@ -1282,20 +593,7 @@
         "value": "Clay's — 613 N. 18th St. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1335,697,398,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1335\" y=\"697\" width=\"398\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1335,697,398,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/53"
     },
     {
@@ -1306,20 +604,7 @@
         "value": "2 Sisters — 4126 Kennerly Ave. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1337,728,488,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1337\" y=\"728\" width=\"488\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1337,728,488,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/54"
     },
     {
@@ -1330,20 +615,7 @@
         "value": "Marcella — 2306 Cole St. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,759,414,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"759\" width=\"414\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,759,414,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/55"
     },
     {
@@ -1354,20 +626,7 @@
         "value": "Estrella's — 4629 W. Aldine Ave. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1335,790,522,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1335\" y=\"790\" width=\"522\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1335,790,522,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/56"
     },
     {
@@ -1378,20 +637,7 @@
         "value": "Tillie's — 2600 Cole St. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,822,367,25"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"822\" width=\"367\" height=\"25\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,822,367,25",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/57"
     },
     {
@@ -1402,20 +648,7 @@
         "value": "Bullock's — 3320 Franklin Ave. — ST. LOUIS, MISSOURI — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,893,482,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"893\" width=\"482\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,893,482,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/58"
     },
     {
@@ -1426,20 +659,7 @@
         "value": "Silver Slipper — 2817 Easton Ave. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1335,967,524,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1335\" y=\"967\" width=\"524\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1335,967,524,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/59"
     },
     {
@@ -1450,20 +670,7 @@
         "value": "Glass Bar — 2933 Lawton St. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,998,455,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"998\" width=\"455\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,998,455,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/60"
     },
     {
@@ -1474,20 +681,7 @@
         "value": "Rio — 18 South Jefferson — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1335,633,460,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1335\" y=\"633\" width=\"460\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1335,633,460,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/61"
     },
     {
@@ -1498,20 +692,7 @@
         "value": "Carioca — 1112 N. Sarah St. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1337,1061,423,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1337\" y=\"1061\" width=\"423\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1337,1061,423,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/62"
     },
     {
@@ -1522,20 +703,7 @@
         "value": "Zanzibar — 215 Cardinal-3 — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,1092,395,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"1092\" width=\"395\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,1092,395,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/63"
     },
     {
@@ -1546,20 +714,7 @@
         "value": "20th Century — 718 N. Vanderventer-8 — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,1124,595,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"1124\" width=\"595\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,1124,595,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/64"
     },
     {
@@ -1570,20 +725,7 @@
         "value": "West End — 939 N. Vanderventer Ave. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1578,526,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1578\" width=\"526\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1578,526,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/65"
     },
     {
@@ -1594,20 +736,7 @@
         "value": "Hawaiian — 3839 Finney Ave. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,1187,470,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"1187\" width=\"470\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,1187,470,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/66"
     },
     {
@@ -1618,20 +747,7 @@
         "value": "Play House — 4071 Page Blvd. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,1217,489,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"1217\" width=\"489\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,1217,489,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/67"
     },
     {
@@ -1642,20 +758,7 @@
         "value": "Casablanca — 4111 Finney Ave. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,1248,488,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"1248\" width=\"488\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,1248,488,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/68"
     },
     {
@@ -1666,20 +769,7 @@
         "value": "Manhattan — 1115 N. Sarah — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,1280,453,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"1280\" width=\"453\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,1280,453,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/69"
     },
     {
@@ -1690,20 +780,7 @@
         "value": "Zanzibar — 215 N. Cardinal — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,1092,395,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"1092\" width=\"395\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,1092,395,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/70"
     },
     {
@@ -1714,20 +791,7 @@
         "value": "Paradise — 930 N. Sarah St. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1335,1383,425,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1335\" y=\"1383\" width=\"425\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1335,1383,425,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/71"
     },
     {
@@ -1738,20 +802,7 @@
         "value": "Riviera — 4460 Delmar Blvd. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1337,1415,433,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1337\" y=\"1415\" width=\"433\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1337,1415,433,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/72"
     },
     {
@@ -1762,20 +813,7 @@
         "value": "Sunset — 6th & Peggot St. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,1447,400,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"1447\" width=\"400\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,1447,400,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/73"
     },
     {
@@ -1786,20 +824,7 @@
         "value": "West End — 911 N. Vanderventer — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1578,526,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1578\" width=\"526\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1578,526,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/74"
     },
     {
@@ -1810,20 +835,7 @@
         "value": "Key — 211 N. Cardinal Ave.-3 — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,1509,463,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"1509\" width=\"463\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,1509,463,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/75"
     },
     {
@@ -1834,20 +846,7 @@
         "value": "El Grotto — 6412 Cottage Grove Ave. — ST. LOUIS, MISSOURI — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,1539,595,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"1539\" width=\"595\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1334,1539,595,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/76"
     },
     {
@@ -1858,20 +857,7 @@
         "value": "Midville — 1913 Pendleton Ave. — ST. LOUIS, MISSOURI — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,1612,486,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"1612\" width=\"486\" height=\"26\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,1612,486,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/77"
     },
     {
@@ -1882,20 +868,7 @@
         "value": "Mac's — 4102 Delmar — ST. LOUIS, MISSOURI — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,1644,328,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"1644\" width=\"328\" height=\"26\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,1644,328,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/78"
     },
     {
@@ -1906,20 +879,7 @@
         "value": "Anderson's — 930 N. Compton — ST. LOUIS, MISSOURI — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,1675,467,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"1675\" width=\"467\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,1675,467,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/79"
     },
     {
@@ -1930,20 +890,7 @@
         "value": "Merritt's — 1701 Bond — ST. LOUIS, MISSOURI — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,1707,347,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"1707\" width=\"347\" height=\"26\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,1707,347,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/80"
     },
     {
@@ -1954,20 +901,7 @@
         "value": "Davis — 3811 Finney Ave. — ST. LOUIS, MISSOURI — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,630,500,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"630\" width=\"500\" height=\"28\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=547,630,500,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/81"
     },
     {
@@ -1978,20 +912,7 @@
         "value": "Fred Cooper's — Pine at Ewing Ave. — ST. LOUIS, MISSOURI — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1320,1811,557,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1320\" y=\"1811\" width=\"557\" height=\"27\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1320,1811,557,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/82"
     },
     {
@@ -2002,20 +923,7 @@
         "value": "Jackson's — 4501 W. Easton Ave. — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1327,1882,530,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1327\" y=\"1882\" width=\"530\" height=\"28\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1327,1882,530,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/83"
     },
     {
@@ -2026,20 +934,7 @@
         "value": "Siegel's — 1300 Franklin Ave. — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,1955,452,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"1955\" width=\"452\" height=\"26\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,1955,452,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/84"
     },
     {
@@ -2050,20 +945,7 @@
         "value": "K & F — 3901 Olive St. — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,1986,382,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"1986\" width=\"382\" height=\"26\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,1986,382,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/85"
     },
     {
@@ -2074,20 +956,7 @@
         "value": "Harlem — 4161 Easton Ave. — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=543,1704,368,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"543\" y=\"1704\" width=\"368\" height=\"26\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=543,1704,368,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/86"
     },
     {
@@ -2098,20 +967,7 @@
         "value": "West End — 937 N. Vanderventer Ave. — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1578,526,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1578\" width=\"526\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1578,526,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/87"
     },
     {
@@ -2122,20 +978,7 @@
         "value": "Blue Jay — 2811 Easton Ave. — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,2111,451,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"2111\" width=\"451\" height=\"31\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,2111,451,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/88"
     },
     {
@@ -2146,20 +989,7 @@
         "value": "DeLuxe — 16 N. Jefferson Ave. — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1911,473,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1911\" width=\"473\" height=\"28\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1911,473,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/89"
     },
     {
@@ -2170,20 +1000,7 @@
         "value": "Taylor-Page — 1301 N. Taylor — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,2205,477,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"2205\" width=\"477\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,2205,477,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/90"
     },
     {
@@ -2194,20 +1011,7 @@
         "value": "Douglas — 3339 Laclede — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1332,2236,359,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1332\" y=\"2236\" width=\"359\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1332,2236,359,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/91"
     },
     {
@@ -2218,20 +1022,7 @@
         "value": "Williams — 2801 Cole St. — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,1048,473,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"1048\" width=\"473\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=546,1048,473,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/92"
     },
     {
@@ -2242,20 +1033,7 @@
         "value": "Harper's — 3145 Franklin — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1327,2296,388,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1327\" y=\"2296\" width=\"388\" height=\"31\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1327,2296,388,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/93"
     },
     {
@@ -2266,20 +1044,7 @@
         "value": "Kinlock — Hugh St. & Carson Road — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1331,2328,569,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1331\" y=\"2328\" width=\"569\" height=\"32\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1331,2328,569,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/94"
     },
     {
@@ -2290,20 +1055,7 @@
         "value": "Ream's — 1112 N. Sarah St. — ST. LOUIS, MISSOURI — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1331,2360,432,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1331\" y=\"2360\" width=\"432\" height=\"26\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207667/full/!760,760/0/default.jpg#xywh=1331,2360,432,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0050_5207667_gemini-2.0-flash_box_annotations.json/entry/95"
     }
   ],

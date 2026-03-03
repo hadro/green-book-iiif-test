@@ -10,20 +10,7 @@
         "value": "Economy — 1935 N. 5th St. — KANSAS CITY, KANSAS — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=591,273,438,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"591\" y=\"273\" width=\"438\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=591,273,438,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/0"
     },
     {
@@ -34,20 +21,7 @@
         "value": "Whitney's — 5th & Virginia — KANSAS CITY, KANSAS — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=593,345,422,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"593\" y=\"345\" width=\"422\" height=\"30\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=593,345,422,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/1"
     },
     {
@@ -58,20 +32,7 @@
         "value": "Cundiff — 5th & Quindarf — KANSAS CITY, KANSAS — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=586,377,399,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"586\" y=\"377\" width=\"399\" height=\"28\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=586,377,399,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/2"
     },
     {
@@ -82,20 +43,7 @@
         "value": "Mrs. E. Dawson — 1010 Yuma St. — MANHATTAN, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=591,519,533,37"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"591\" y=\"519\" width=\"533\" height=\"37\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=591,519,533,37",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/3"
     },
     {
@@ -106,20 +54,7 @@
         "value": "Mrs. H. Jackson — 830 Yuma St. — MANHATTAN, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=593,554,542,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"593\" y=\"554\" width=\"542\" height=\"32\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=593,554,542,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/4"
     },
     {
@@ -130,20 +65,7 @@
         "value": "Mrs. Folson — 112 N. Poplar — OTTAWA, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=595,711,451,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"595\" y=\"711\" width=\"451\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=595,711,451,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/5"
     },
     {
@@ -154,20 +76,7 @@
         "value": "Mrs. R. W. White — 821 Cypress — OTTAWA, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=594,741,510,36"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"594\" y=\"741\" width=\"510\" height=\"36\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=594,741,510,36",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/6"
     },
     {
@@ -178,20 +87,7 @@
         "value": "Mrs. F. Williams — 2216 Grand Ave. — PARSONS, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=595,898,584,35"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"595\" y=\"898\" width=\"584\" height=\"35\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=595,898,584,35",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/7"
     },
     {
@@ -202,20 +98,7 @@
         "value": "Womack — 2109 Morgan — PARSONS, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=595,934,367,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"595\" y=\"934\" width=\"367\" height=\"28\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=595,934,367,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/8"
     },
     {
@@ -226,20 +109,7 @@
         "value": "Dunbar — 400 Vuincy St. — TOPEKA, KANSAS — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=597,1075,397,35"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"597\" y=\"1075\" width=\"397\" height=\"35\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=597,1075,397,35",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/9"
     },
     {
@@ -250,20 +120,7 @@
         "value": "Mrs. E. Slaughter — 1407 Monroe — TOPEKA, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=595,1163,530,34"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"595\" y=\"1163\" width=\"530\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=595,1163,530,34",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/10"
     },
     {
@@ -274,20 +131,7 @@
         "value": "Macks' — 400 Quincy St. — TOPEKA, KANSAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=597,1248,385,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"597\" y=\"1248\" width=\"385\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=597,1248,385,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/11"
     },
     {
@@ -298,20 +142,7 @@
         "value": "Power's Cafe — 116 E. 4th St. — TOPEKA, KANSAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=597,1280,475,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"597\" y=\"1280\" width=\"475\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=597,1280,475,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/12"
     },
     {
@@ -322,20 +153,7 @@
         "value": "Oklahoma House — 517½ N. Main St. — WICHITA, KANSAS — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=593,1437,604,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"593\" y=\"1437\" width=\"604\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=593,1437,604,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/13"
     },
     {
@@ -346,20 +164,7 @@
         "value": "Oklahoma Cafe — 517 N. Main St. — WICHITA, KANSAS — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=593,1519,545,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"593\" y=\"1519\" width=\"545\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=593,1519,545,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/14"
     },
     {
@@ -370,20 +175,7 @@
         "value": "A. Johnson — Valley Creek Road — ELIZABETHTOWN, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=601,1750,512,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"601\" y=\"1750\" width=\"512\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=601,1750,512,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/15"
     },
     {
@@ -394,20 +186,7 @@
         "value": "Mrs. B. Tyler — Mile Stt. — ELIZABETHTOWN, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=601,1783,398,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"601\" y=\"1783\" width=\"398\" height=\"31\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=601,1783,398,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/16"
     },
     {
@@ -418,20 +197,7 @@
         "value": "M. E. Wintersmith — S. Dixie Ave. — ELIZABETHTOWN, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=601,1812,549,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"601\" y=\"1812\" width=\"549\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=601,1812,549,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/17"
     },
     {
@@ -442,20 +208,7 @@
         "value": "Mrs. J. Razor — 436 E. Main St. — HAZARD, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=606,1963,539,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"606\" y=\"1963\" width=\"539\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=606,1963,539,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/18"
     },
     {
@@ -466,20 +219,7 @@
         "value": "Mrs. Jessie Richardson — HAZARD, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=604,1996,394,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"604\" y=\"1996\" width=\"394\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=604,1996,394,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/19"
     },
     {
@@ -490,20 +230,7 @@
         "value": "Amy Cox — 813 Washington St.ffl — PADUCAH, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=601,2140,576,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"601\" y=\"2140\" width=\"576\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=601,2140,576,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/20"
     },
     {
@@ -514,20 +241,7 @@
         "value": "Mrs. M. McGregor — 200 E. First St. — HOPKINSVILLE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=611,2285,579,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"611\" y=\"2285\" width=\"579\" height=\"31\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=611,2285,579,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/21"
     },
     {
@@ -538,20 +252,7 @@
         "value": "L. McNary — 113 Liberty St. — HOPKINSVILLE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=611,2318,452,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"611\" y=\"2318\" width=\"452\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=611,2318,452,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/22"
     },
     {
@@ -562,20 +263,7 @@
         "value": "J. C. Hopkins — 128 Liberty St. — HOPKINSVILLE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=612,2350,491,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"612\" y=\"2350\" width=\"491\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=612,2350,491,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/23"
     },
     {
@@ -586,20 +274,7 @@
         "value": "Burn's — Buford St. — LANCASTER, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1382,308,296,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1382\" y=\"308\" width=\"296\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1382,308,296,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/24"
     },
     {
@@ -610,20 +285,7 @@
         "value": "Hord's — Buford St. — LANCASTER, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1382,339,304,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1382\" y=\"339\" width=\"304\" height=\"26\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1382,339,304,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/25"
     },
     {
@@ -634,20 +296,7 @@
         "value": "Plum's — Buford St. — LANCASTER, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1380,410,312,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1380\" y=\"410\" width=\"312\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1380,410,312,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/26"
     },
     {
@@ -658,20 +307,7 @@
         "value": "Hyatt's — Buford St. — LANCASTER, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1382,484,309,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1382\" y=\"484\" width=\"309\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1382,484,309,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/27"
     },
     {
@@ -682,20 +318,7 @@
         "value": "Hilltop — Bluford St. — LANCASTER, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1380,555,317,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1380\" y=\"555\" width=\"317\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1380,555,317,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/28"
     },
     {
@@ -706,20 +329,7 @@
         "value": "Warren & Francis — N. Campbell St. — LANCASTER, KENTUCKY — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1383,624,595,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1383\" y=\"624\" width=\"595\" height=\"33\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1383,624,595,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/29"
     },
     {
@@ -730,20 +340,7 @@
         "value": "Lincoln Institute — LINCOLN RIDGE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1382,765,265,25"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1382\" y=\"765\" width=\"265\" height=\"25\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1382,765,265,25",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/30"
     },
     {
@@ -754,20 +351,7 @@
         "value": "Allen — 2516 W. Madison St. — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,900,459,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"900\" width=\"459\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,900,459,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/31"
     },
     {
@@ -778,20 +362,7 @@
         "value": "Pythian Temple — 10th & Chestnut — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,933,526,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"933\" width=\"526\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,933,526,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/32"
     },
     {
@@ -802,20 +373,7 @@
         "value": "Walnut — 615 Walnut St. — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,964,390,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"964\" width=\"390\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,964,390,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/33"
     },
     {
@@ -826,20 +384,7 @@
         "value": "Y. W. C. A. — 528 S. 6th St. — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1390,995,456,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1390\" y=\"995\" width=\"456\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1390,995,456,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/34"
     },
     {
@@ -850,20 +395,7 @@
         "value": "May's — 623 S. 10th St. — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1386,1028,367,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1386\" y=\"1028\" width=\"367\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1386,1028,367,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/35"
     },
     {
@@ -874,20 +406,7 @@
         "value": "Lee L. Brown — 1014 W. Chestnut — LOUISVILLE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1382,1099,547,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1382\" y=\"1099\" width=\"547\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1382,1099,547,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/36"
     },
     {
@@ -898,20 +417,7 @@
         "value": "Hattie Daniels — 1512 W. Chestnut — LOUISVILLE, KENTUCKY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1385,1130,544,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1385\" y=\"1130\" width=\"544\" height=\"28\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1385,1130,544,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/37"
     },
     {
@@ -922,20 +428,7 @@
         "value": "Eatmore — 964 S. 12th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1390,1204,401,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1390\" y=\"1204\" width=\"401\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1390,1204,401,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/38"
     },
     {
@@ -946,20 +439,7 @@
         "value": "White Swann — 1208 W. Walnut — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1389,1234,518,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1389\" y=\"1234\" width=\"518\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1389,1234,518,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/39"
     },
     {
@@ -970,20 +450,7 @@
         "value": "Honey Dripper — 1208 Breckinridge St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1386,1265,599,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1386\" y=\"1265\" width=\"599\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1386,1265,599,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/40"
     },
     {
@@ -994,20 +461,7 @@
         "value": "Jones — 525 S. 13th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1390,1299,364,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1390\" y=\"1299\" width=\"364\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1390,1299,364,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/41"
     },
     {
@@ -1018,20 +472,7 @@
         "value": "Du Rez — Madison & 26th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,1329,462,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"1329\" width=\"462\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,1329,462,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/42"
     },
     {
@@ -1042,20 +483,7 @@
         "value": "Honey Dripper — 1212 W. Breckenridge St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1386,1265,599,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1386\" y=\"1265\" width=\"599\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1386,1265,599,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/43"
     },
     {
@@ -1066,20 +494,7 @@
         "value": "Thompson's — 419 So. 19th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1390,1392,487,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1390\" y=\"1392\" width=\"487\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1390,1392,487,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/44"
     },
     {
@@ -1090,20 +505,7 @@
         "value": "Harry's — 28th & Chestnut Sts. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,1423,491,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"1423\" width=\"491\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,1423,491,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/45"
     },
     {
@@ -1114,20 +516,7 @@
         "value": "W. & H. — 432 S. 18th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1386,1455,435,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1386\" y=\"1455\" width=\"435\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1386,1455,435,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/46"
     },
     {
@@ -1138,20 +527,7 @@
         "value": "California — 1604 Gallagher St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1386,1487,490,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1386\" y=\"1487\" width=\"490\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1386,1487,490,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/47"
     },
     {
@@ -1162,20 +538,7 @@
         "value": "Club Hollywood — 813 S. 6th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,1518,545,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"1518\" width=\"545\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,1518,545,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/48"
     },
     {
@@ -1186,20 +549,7 @@
         "value": "Jone's — 525 S. 13th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,1549,382,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"1549\" width=\"382\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,1549,382,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/49"
     },
     {
@@ -1210,20 +560,7 @@
         "value": "West End — 1929 W. Walnut St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1389,1577,523,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1389\" y=\"1577\" width=\"523\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1389,1577,523,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/50"
     },
     {
@@ -1234,20 +571,7 @@
         "value": "Scotty's — 442 So. 21st St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,1653,503,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"1653\" width=\"503\" height=\"31\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,1653,503,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/51"
     },
     {
@@ -1258,20 +582,7 @@
         "value": "Bellonia — 1625 Callagher St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1392,1692,441,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1392\" y=\"1692\" width=\"441\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1392,1692,441,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/52"
     },
     {
@@ -1282,20 +593,7 @@
         "value": "Mae Ella's — 1110 W. Walnut St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,1722,538,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"1722\" width=\"538\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,1722,538,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/53"
     },
     {
@@ -1306,20 +604,7 @@
         "value": "McKissick's — 505 S. 8th St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,1753,443,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"1753\" width=\"443\" height=\"31\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,1753,443,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/54"
     },
     {
@@ -1330,20 +615,7 @@
         "value": "Scotty — 422 S. 21st St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,1653,503,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"1653\" width=\"503\" height=\"31\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,1653,503,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/55"
     },
     {
@@ -1354,20 +626,7 @@
         "value": "Elizabeth's — 962 S. 12th St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1393,1814,441,34"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1393\" y=\"1814\" width=\"441\" height=\"34\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1393,1814,441,34",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/56"
     },
     {
@@ -1378,20 +637,7 @@
         "value": "Jones — 409 S. 18th St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1390,1299,364,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1390\" y=\"1299\" width=\"364\" height=\"26\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1390,1299,364,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/57"
     },
     {
@@ -1402,20 +648,7 @@
         "value": "Beauty Box — 922 W. Walnut. St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1385,1881,528,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1385\" y=\"1881\" width=\"528\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1385,1881,528,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/58"
     },
     {
@@ -1426,20 +659,7 @@
         "value": "Rose's — 1813 W. Walnut St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1388,1910,472,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1388\" y=\"1910\" width=\"472\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1388,1910,472,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/59"
     },
     {
@@ -1450,20 +670,7 @@
         "value": "Willie's — 639 S. 10th St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1385,1940,393,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1385\" y=\"1940\" width=\"393\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1385,1940,393,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/60"
     },
     {
@@ -1474,20 +681,7 @@
         "value": "Hunter's — 1501 W. Chestnut St. — LOUISVILLE, KENTUCKY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1395,2014,521,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1395\" y=\"2014\" width=\"521\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1395,2014,521,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/61"
     },
     {
@@ -1498,20 +692,7 @@
         "value": "Herman — 1601 W. Walnut St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1392,2087,497,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1392\" y=\"2087\" width=\"497\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1392,2087,497,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/62"
     },
     {
@@ -1522,20 +703,7 @@
         "value": "Dave's — 13th & Magazine — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1390,2119,407,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1390\" y=\"2119\" width=\"407\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1390,2119,407,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/63"
     },
     {
@@ -1546,20 +714,7 @@
         "value": "Del Rey — Madison & 26th St. — LOUISVILLE, KENTUCKY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1392,2190,472,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1392\" y=\"2190\" width=\"472\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1392,2190,472,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/64"
     },
     {
@@ -1570,20 +725,7 @@
         "value": "Palace — 12th & Walnut St. — LOUISVILLE, KENTUCKY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1395,2252,419,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1395\" y=\"2252\" width=\"419\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1395,2252,419,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/65"
     },
     {
@@ -1594,20 +736,7 @@
         "value": "Lyons — 16th & Walnut St. — LOUISVILLE, KENTUCKY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1396,2285,428,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1396\" y=\"2285\" width=\"428\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1396,2285,428,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/66"
     },
     {
@@ -1618,20 +747,7 @@
         "value": "Eade's — 2420 Cedar St. — LOUISVILLE, KENTUCKY — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1397,2346,364,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1397\" y=\"2346\" width=\"364\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207658/full/!760,760/0/default.jpg#xywh=1397,2346,364,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0041_5207658_gemini-2.0-flash_box_annotations.json/entry/67"
     }
   ],

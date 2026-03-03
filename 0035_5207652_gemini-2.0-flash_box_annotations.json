@@ -10,20 +10,7 @@
         "value": "Whitelaw — 13th & 'T' Sts. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=574,305,542,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"574\" y=\"305\" width=\"542\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=574,305,542,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/0"
     },
     {
@@ -34,20 +21,7 @@
         "value": "J. Y's — 16th & 'G' Sts. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,336,490,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"336\" width=\"490\" height=\"28\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=573,336,490,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/1"
     },
     {
@@ -58,20 +32,7 @@
         "value": "Dunbar — U St. & 15th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=574,369,562,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"574\" y=\"369\" width=\"562\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=574,369,562,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/2"
     },
     {
@@ -82,20 +43,7 @@
         "value": "Y. M. C. A. — 1816 12th St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=574,399,567,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"574\" y=\"399\" width=\"567\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=574,399,567,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/3"
     },
     {
@@ -106,20 +54,7 @@
         "value": "Y. W. C. A. — 901 Rhode Is. Ave. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=574,428,650,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"574\" y=\"428\" width=\"650\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=574,428,650,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/4"
     },
     {
@@ -130,20 +65,7 @@
         "value": "Mrs. L. Fowler — 1449 'Q' St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=566,504,605,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"566\" y=\"504\" width=\"605\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=566,504,605,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/5"
     },
     {
@@ -154,20 +76,7 @@
         "value": "Mrs. R. Lee — 1212 Girad St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,534,599,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"534\" width=\"599\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,534,599,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/6"
     },
     {
@@ -178,20 +87,7 @@
         "value": "Towles — 1342 Vermont Ave., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,566,579,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"566\" width=\"579\" height=\"31\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,566,579,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/7"
     },
     {
@@ -202,20 +98,7 @@
         "value": "Bailey's — 2533 - 13th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,599,550,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"599\" width=\"550\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,599,550,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/8"
     },
     {
@@ -226,20 +109,7 @@
         "value": "Modern — 3006 - 13th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=561,629,556,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"561\" y=\"629\" width=\"556\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=561,629,556,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/9"
     },
     {
@@ -250,20 +120,7 @@
         "value": "Holleywood — 1940 9th St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,703,524,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"703\" width=\"524\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=573,703,524,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/10"
     },
     {
@@ -274,20 +131,7 @@
         "value": "Liberty — 910 5th St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=572,732,441,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"572\" y=\"732\" width=\"441\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=572,732,441,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/11"
     },
     {
@@ -298,20 +142,7 @@
         "value": "Harrison's Cafe — 455 Florida Ave. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,762,670,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"762\" width=\"670\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,762,670,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/12"
     },
     {
@@ -322,20 +153,7 @@
         "value": "Service Grill — 12th & 'V' Sts. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,796,583,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"796\" width=\"583\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,796,583,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/13"
     },
     {
@@ -346,20 +164,7 @@
         "value": "Off Beat — 1849 - 7th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=570,826,526,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"570\" y=\"826\" width=\"526\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=570,826,526,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/14"
     },
     {
@@ -370,20 +175,7 @@
         "value": "Kenyon — Ga. Avenue & Kenyon St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=574,859,685,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"574\" y=\"859\" width=\"685\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=574,859,685,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/15"
     },
     {
@@ -394,20 +186,7 @@
         "value": "Brentwood — 4526 Rhode Island Ave., Ν. Ε. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=572,889,693,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"572\" y=\"889\" width=\"693\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=572,889,693,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/16"
     },
     {
@@ -418,20 +197,7 @@
         "value": "Capitol — 1224 U St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,923,477,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"923\" width=\"477\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,923,477,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/17"
     },
     {
@@ -442,20 +208,7 @@
         "value": "Chuck's — 1334 V St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,951,449,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"951\" width=\"449\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,951,449,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/18"
     },
     {
@@ -466,20 +219,7 @@
         "value": "Club Liberty — 910- 5th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,984,565,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"984\" width=\"565\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,984,565,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/19"
     },
     {
@@ -490,20 +230,7 @@
         "value": "Keys — 7th & 'T' St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1068,450,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1068\" width=\"450\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=573,1068,450,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/20"
     },
     {
@@ -514,20 +241,7 @@
         "value": "Clore — 7th & 'T' Sts. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1099,467,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1099\" width=\"467\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1099,467,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/21"
     },
     {
@@ -538,20 +252,7 @@
         "value": "Chicken Paradise — 1210 U. St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1131,631,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1131\" width=\"631\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1131,631,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/22"
     },
     {
@@ -562,20 +263,7 @@
         "value": "Earl's — 1218 U St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1164,438,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1164\" width=\"438\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1164,438,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/23"
     },
     {
@@ -586,20 +274,7 @@
         "value": "Sugar Bowl — 2830 Georgia Ave., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1194,648,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1194\" width=\"648\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1194,648,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/24"
     },
     {
@@ -610,20 +285,7 @@
         "value": "Pig N Pit — 1214 - 14th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=548,1227,584,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"548\" y=\"1227\" width=\"584\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=548,1227,584,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/25"
     },
     {
@@ -634,20 +296,7 @@
         "value": "Shrimp Hut — 807 Florida Aveneue, N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1256,670,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1256\" width=\"670\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1256,670,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/26"
     },
     {
@@ -658,20 +307,7 @@
         "value": "Casbah — 1211 U St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=552,1288,442,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"552\" y=\"1288\" width=\"442\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=552,1288,442,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/27"
     },
     {
@@ -682,20 +318,7 @@
         "value": "Uptown — 807 Florida, N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=569,1319,468,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"569\" y=\"1319\" width=\"468\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=569,1319,468,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/28"
     },
     {
@@ -706,20 +329,7 @@
         "value": "Johnson's — 1909 - 14th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=568,1348,567,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"568\" y=\"1348\" width=\"567\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=568,1348,567,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/29"
     },
     {
@@ -730,20 +340,7 @@
         "value": "Mother Froman's — 1108 9th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=569,1382,632,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"569\" y=\"1382\" width=\"632\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=569,1382,632,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/30"
     },
     {
@@ -754,20 +351,7 @@
         "value": "The Hour — 1937 - 11th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=569,1413,600,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"569\" y=\"1413\" width=\"600\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=569,1413,600,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/31"
     },
     {
@@ -778,20 +362,7 @@
         "value": "Jackson's — 1831 Weltberger St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=569,1445,632,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"569\" y=\"1445\" width=\"632\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=569,1445,632,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/32"
     },
     {
@@ -802,20 +373,7 @@
         "value": "Peoples — 719- 11th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1517,531,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1517\" width=\"531\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1517,531,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/33"
     },
     {
@@ -826,20 +384,7 @@
         "value": "S & W — 1428 - 9th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=569,1544,529,34"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"569\" y=\"1544\" width=\"529\" height=\"34\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=569,1544,529,34",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/34"
     },
     {
@@ -850,20 +395,7 @@
         "value": "Ney's — 1013 Penna. Ave., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=568,1579,548,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"568\" y=\"1579\" width=\"548\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=568,1579,548,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/35"
     },
     {
@@ -874,20 +406,7 @@
         "value": "Shuster's — 101 H St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1610,474,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1610\" width=\"474\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1610,474,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/36"
     },
     {
@@ -898,20 +417,7 @@
         "value": "Masters — 714 K St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1642,442,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1642\" width=\"442\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1642,442,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/37"
     },
     {
@@ -922,20 +428,7 @@
         "value": "Florida — 1803 Florida Ave., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,762,670,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"762\" width=\"670\" height=\"32\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,762,670,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/38"
     },
     {
@@ -946,20 +439,7 @@
         "value": "Apex — 1417 'U' St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1784,424,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1784\" width=\"424\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1784,424,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/39"
     },
     {
@@ -970,20 +450,7 @@
         "value": "The Royal — 1800 'T' St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1817,509,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1817\" width=\"509\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1817,509,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/40"
     },
     {
@@ -994,20 +461,7 @@
         "value": "Elite — 1806 Florida Ave., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1848,537,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1848\" width=\"537\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=573,1848,537,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/41"
     },
     {
@@ -1018,20 +472,7 @@
         "value": "Vanity Box — 1515 9th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1879,625,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1879\" width=\"625\" height=\"31\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1879,625,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/42"
     },
     {
@@ -1042,20 +483,7 @@
         "value": "Lil's — 1327 - 11th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1910,503,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1910\" width=\"503\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1910,503,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/43"
     },
     {
@@ -1066,20 +494,7 @@
         "value": "Green's — 1825 - 18th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=571,1941,558,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"571\" y=\"1941\" width=\"558\" height=\"32\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=571,1941,558,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/44"
     },
     {
@@ -1090,20 +505,7 @@
         "value": "A. Marie — 3114 - 11th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1972,559,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1972\" width=\"559\" height=\"31\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=573,1972,559,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/45"
     },
     {
@@ -1114,20 +516,7 @@
         "value": "Bandbox — 2036 - 18th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=572,2003,561,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"572\" y=\"2003\" width=\"561\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=572,2003,561,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/46"
     },
     {
@@ -1138,20 +527,7 @@
         "value": "Bali — 1901 14th St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=576,2075,421,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"576\" y=\"2075\" width=\"421\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=576,2075,421,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/47"
     },
     {
@@ -1162,20 +538,7 @@
         "value": "Caverns — 11th & 'U' St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,2109,507,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"2109\" width=\"507\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=573,2109,507,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/48"
     },
     {
@@ -1186,20 +549,7 @@
         "value": "Republic Gardens — 1355 'U' St. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=574,2139,627,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"574\" y=\"2139\" width=\"627\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=574,2139,627,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/49"
     },
     {
@@ -1210,20 +560,7 @@
         "value": "Grand Terrace — 3925 Benning Rd., Ν. Ε. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=566,2172,671,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"566\" y=\"2172\" width=\"671\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=566,2172,671,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/50"
     },
     {
@@ -1234,20 +571,7 @@
         "value": "Club Bali — 1901 - 14th St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,2203,595,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"2203\" width=\"595\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=573,2203,595,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/51"
     },
     {
@@ -1258,20 +582,7 @@
         "value": "Club Caverns — 11th & U St., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=576,2234,594,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"576\" y=\"2234\" width=\"594\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=576,2234,594,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/52"
     },
     {
@@ -1282,20 +593,7 @@
         "value": "Brown's — Georgia Ave. & 'V' St. — WASHINGTON, DISTRICT OF COLUMBIA — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=577,2305,520,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"577\" y=\"2305\" width=\"520\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=577,2305,520,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/53"
     },
     {
@@ -1306,20 +604,7 @@
         "value": "B. Barker — Florida Ave. & 8th St. — WASHINGTON, DISTRICT OF COLUMBIA — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=576,2337,526,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"576\" y=\"2337\" width=\"526\" height=\"28\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=576,2337,526,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/54"
     },
     {
@@ -1330,20 +615,7 @@
         "value": "Engelberg — 1783 Florida Ave., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=566,2371,600,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"566\" y=\"2371\" width=\"600\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=566,2371,600,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/55"
     },
     {
@@ -1354,20 +626,7 @@
         "value": "University — Rear 1019 Columbia Rd. N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1358,286,689,37"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1358\" y=\"286\" width=\"689\" height=\"37\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1358,286,689,37",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/56"
     },
     {
@@ -1378,20 +637,7 @@
         "value": "W. R. Reynolds — 1808 Florida Ave., N. W. — WASHINGTON, DISTRICT OF COLUMBIA — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1355,353,690,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1355\" y=\"353\" width=\"690\" height=\"31\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1355,353,690,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/57"
     },
     {
@@ -1402,20 +648,7 @@
         "value": "M. Littleton — 522 S. Campbell St. — DAYTONA BEACH, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1357,562,548,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1357\" y=\"562\" width=\"548\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1357,562,548,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/58"
     },
     {
@@ -1426,20 +659,7 @@
         "value": "Rotisserie — 2nd & walnut St. — DAYTONA BEACH, FLORIDA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1361,632,453,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1361\" y=\"632\" width=\"453\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1361,632,453,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/59"
     },
     {
@@ -1450,20 +670,7 @@
         "value": "Casa Blanca — 899 Cypress St. — DAYTONA BEACH, FLORIDA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1359,664,456,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1359\" y=\"664\" width=\"456\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1359,664,456,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/60"
     },
     {
@@ -1474,20 +681,7 @@
         "value": "C & B — 566 Capbell St. — DAYTONA BEACH, FLORIDA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1360,697,368,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1360\" y=\"697\" width=\"368\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1360,697,368,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/61"
     },
     {
@@ -1498,20 +692,7 @@
         "value": "Palms — walnut & 2nd Sts. — DAYTONA BEACH, FLORIDA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1360,770,418,25"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1360\" y=\"770\" width=\"418\" height=\"25\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1360,770,418,25",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/62"
     },
     {
@@ -1522,20 +703,7 @@
         "value": "Hank's — 610 S. Campbell St. — DAYTONA BEACH, FLORIDA — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1357,843,566,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1357\" y=\"843\" width=\"566\" height=\"32\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1357,843,566,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/63"
     },
     {
@@ -1546,20 +714,7 @@
         "value": "Kirkland — Campbell & Orange Ave. — DAYTONA BEACH, FLORIDA — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1361,923,561,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1361\" y=\"923\" width=\"561\" height=\"32\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1361,923,561,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/64"
     },
     {
@@ -1570,20 +725,7 @@
         "value": "Manfield — N. W. 1st St. — DELRAY BEACH, FLORIDA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1361,1060,399,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1361\" y=\"1060\" width=\"399\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1361,1060,399,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/65"
     },
     {
@@ -1594,20 +736,7 @@
         "value": "Hill — 430 N. W. 7th Ave. — FORT LANDERDALE, FLORIDA — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1358,1181,440,36"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1358\" y=\"1181\" width=\"440\" height=\"36\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1358,1181,440,36",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/66"
     },
     {
@@ -1618,20 +747,7 @@
         "value": "Windsor — FORT LANDERDALE, FLORIDA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1360,1259,133,25"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1360\" y=\"1259\" width=\"133\" height=\"25\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1360,1259,133,25",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/67"
     },
     {
@@ -1642,20 +758,7 @@
         "value": "Blue Chip — 514 Broad St. — JACKSONVILLE, FLORIDA — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1361,1390,416,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1361\" y=\"1390\" width=\"416\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1361,1390,416,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/68"
     },
     {
@@ -1666,20 +769,7 @@
         "value": "Richmond — 422 Broad St. — JACKSONVILLE, FLORIDA — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,1421,412,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"1421\" width=\"412\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1363,1421,412,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/69"
     },
     {
@@ -1690,20 +780,7 @@
         "value": "Craddock — 45th & Moncrief — JACKSONVILLE, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1355,1494,435,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1355\" y=\"1494\" width=\"435\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1355,1494,435,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/70"
     },
     {
@@ -1714,20 +791,7 @@
         "value": "Alpine Cottage — 714 W. Ashley St. — JACKSONVILLE, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1358,1525,561,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1358\" y=\"1525\" width=\"561\" height=\"31\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1358,1525,561,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/71"
     },
     {
@@ -1738,20 +802,7 @@
         "value": "E. H. Flipper — 739 W. Church St. — JACKSONVILLE, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1358,1556,559,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1358\" y=\"1556\" width=\"559\" height=\"32\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1358,1556,559,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/72"
     },
     {
@@ -1762,20 +813,7 @@
         "value": "L. D. Jefferson — 1834 Moncrief Rd. — JACKSONVILLE, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1309,1588,598,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1309\" y=\"1588\" width=\"598\" height=\"31\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1309,1588,598,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/73"
     },
     {
@@ -1786,20 +824,7 @@
         "value": "B. Robinson — 128 Orange St. — JACKSONVILLE, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1358,1620,471,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1358\" y=\"1620\" width=\"471\" height=\"32\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1358,1620,471,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/74"
     },
     {
@@ -1810,20 +835,7 @@
         "value": "G. L. Martin — 702 W. Beaver St. — JACKSONVILLE, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1360,1649,544,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1360\" y=\"1649\" width=\"544\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1360,1649,544,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/75"
     },
     {
@@ -1834,20 +846,7 @@
         "value": "C. H. Simmons — 434 W. Ashley St. — JACKSONVILLE, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1361,1682,558,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1361\" y=\"1682\" width=\"558\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1361,1682,558,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/76"
     },
     {
@@ -1858,20 +857,7 @@
         "value": "Two Spot — 45th & Moncrief Rd. — JACKSONVILLE, FLORIDA — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1355,1754,511,35"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1355\" y=\"1754\" width=\"511\" height=\"35\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1355,1754,511,35",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/77"
     },
     {
@@ -1882,20 +868,7 @@
         "value": "Ben-Flo — 720 E. Leon St. — LAKE CITY, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1356,1890,432,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1356\" y=\"1890\" width=\"432\" height=\"30\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1356,1890,432,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/78"
     },
     {
@@ -1906,20 +879,7 @@
         "value": "Mrs. A. Davis — 518 W. 1st St. — LAKELAND, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1360,2024,521,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1360\" y=\"2024\" width=\"521\" height=\"31\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1360,2024,521,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/79"
     },
     {
@@ -1930,20 +890,7 @@
         "value": "Mrs. J. Davis — 842½ N. Florida Ave. — LAKELAND, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1358,2055,618,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1358\" y=\"2055\" width=\"618\" height=\"32\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1358,2055,618,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/80"
     },
     {
@@ -1954,20 +901,7 @@
         "value": "Mrs. J. Boyd — Missouri Ave. — LAKELAND, FLORIDA — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1358,2089,460,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1358\" y=\"2089\" width=\"460\" height=\"28\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1358,2089,460,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/81"
     },
     {
@@ -1978,20 +912,7 @@
         "value": "Blue Chip — 2200 Simon Street — LIBERIA, FLORIDA — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1361,1390,416,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1361\" y=\"1390\" width=\"416\" height=\"31\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1361,1390,416,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/82"
     },
     {
@@ -2002,20 +923,7 @@
         "value": "Mary Elizabeth — 642 N. W. 2nd Ave. — MIAMI, FLORIDA — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1353,2334,616,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1353\" y=\"2334\" width=\"616\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1353,2334,616,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/83"
     },
     {
@@ -2026,20 +934,7 @@
         "value": "Dorsey — 941 N. W. 2nd Avenue — MIAMI, FLORIDA — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1360,2369,519,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1360\" y=\"2369\" width=\"519\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207652/full/!760,760/0/default.jpg#xywh=1360,2369,519,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0035_5207652_gemini-2.0-flash_box_annotations.json/entry/84"
     }
   ],

@@ -10,20 +10,7 @@
         "value": "The Ritz — 214 Main St. — EAST ORANGE, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,340,406,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"340\" width=\"406\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=573,340,406,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/0"
     },
     {
@@ -34,20 +21,7 @@
         "value": "Milan's — 232 Halstead St. — EAST ORANGE, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,372,434,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"372\" width=\"434\" height=\"26\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=573,372,434,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/1"
     },
     {
@@ -58,20 +32,7 @@
         "value": "Vernon's — 182 Amherst St. — EAST ORANGE, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=580,445,421,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"580\" y=\"445\" width=\"421\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=580,445,421,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/2"
     },
     {
@@ -82,20 +43,7 @@
         "value": "Charles — 63 N Park St. — EAST ORANGE, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=583,474,389,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"583\" y=\"474\" width=\"389\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=583,474,389,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/3"
     },
     {
@@ -106,20 +54,7 @@
         "value": "The Greenbriar — Pine Bush — EATONTOWN, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=580,620,433,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"580\" y=\"620\" width=\"433\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=580,620,433,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/4"
     },
     {
@@ -130,20 +65,7 @@
         "value": "Allen House — 625 Cincinnati Ave. — EGG HARBOR, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=577,767,547,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"577\" y=\"767\" width=\"547\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=577,767,547,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/5"
     },
     {
@@ -154,20 +76,7 @@
         "value": "Red, White & Blue Inn — 701 Phila. Ave. — EGG HARBOR, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=582,840,648,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"582\" y=\"840\" width=\"648\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=582,840,648,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/6"
     },
     {
@@ -178,20 +87,7 @@
         "value": "Mrs. L. G. Brown — 178 Madison St. — ELIZABETH, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=580,982,569,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"580\" y=\"982\" width=\"569\" height=\"33\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=580,982,569,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/7"
     },
     {
@@ -202,20 +98,7 @@
         "value": "Mrs. T. T. Dtvis — 27 Dayton St. — ELIZABETH, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=547,1012,565,38"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"547\" y=\"1012\" width=\"565\" height=\"38\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=547,1012,565,38",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/8"
     },
     {
@@ -226,20 +109,7 @@
         "value": "Hunter's — 1155 Dickerson St. — ELIZABETH, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=580,1089,468,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"580\" y=\"1089\" width=\"468\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=580,1089,468,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/9"
     },
     {
@@ -250,20 +120,7 @@
         "value": "One & Only — 1112 Dickerson St. — ELIZABETH, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=580,1121,530,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"580\" y=\"1121\" width=\"530\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=580,1121,530,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/10"
     },
     {
@@ -274,20 +131,7 @@
         "value": "The Lincoln — 1-3 Englewood Ave. — ENGLEWOOD, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1266,534,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1266\" width=\"534\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=573,1266,534,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/11"
     },
     {
@@ -298,20 +142,7 @@
         "value": "W. E. Beverage Co. — 107 William St. — ENGLEWOOD, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=576,1338,715,37"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"576\" y=\"1338\" width=\"715\" height=\"37\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=576,1338,715,37",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/12"
     },
     {
@@ -322,20 +153,7 @@
         "value": "Giles — 107 Williams St. — ENGLEWOOD, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=583,1381,374,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"583\" y=\"1381\" width=\"374\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=583,1381,374,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/13"
     },
     {
@@ -346,20 +164,7 @@
         "value": "Mary — 206 Central Ave. — HACKENSACK, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=583,1529,391,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"583\" y=\"1529\" width=\"391\" height=\"27\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=583,1529,391,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/14"
     },
     {
@@ -370,20 +175,7 @@
         "value": "5 POINT SERVICE STATION — First and\nSusquehanna St. — HACKENSACK, NEW JERSEY — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=608,1675,615,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"608\" y=\"1675\" width=\"615\" height=\"32\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"6\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=608,1675,615,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/15"
     },
     {
@@ -394,20 +186,7 @@
         "value": "Tip Top — 174 Central Ave. — HACKENSACK, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=586,2266,456,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"586\" y=\"2266\" width=\"456\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=586,2266,456,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/16"
     },
     {
@@ -418,20 +197,7 @@
         "value": "Crosson — Railroad Place — HACKENSACK, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=592,2297,380,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"592\" y=\"2297\" width=\"380\" height=\"26\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=592,2297,380,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/17"
     },
     {
@@ -442,20 +208,7 @@
         "value": "Rideout's — 204 Central Ave. — HACKENSACK, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=595,2368,453,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"595\" y=\"2368\" width=\"453\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=595,2368,453,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/18"
     },
     {
@@ -466,20 +219,7 @@
         "value": "Majestic Lodge — 351 - 1st St. — HACKENSACK, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,284,465,34"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"284\" width=\"465\" height=\"34\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1363,284,465,34",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/19"
     },
     {
@@ -490,20 +230,7 @@
         "value": "Thomas Lake — HASKELL, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1371,425,210,24"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1371\" y=\"425\" width=\"210\" height=\"24\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1371,425,210,24",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/20"
     },
     {
@@ -514,20 +241,7 @@
         "value": "Paul's Inn — Rt. 33 East Windsor\nTWP — HIGHTSTOWN, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1366,559,709,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1366\" y=\"559\" width=\"709\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1366,559,709,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/21"
     },
     {
@@ -538,20 +252,7 @@
         "value": "Old Barn — 104 Daws St. — HIGHTSTOWN, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1371,640,388,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1371\" y=\"640\" width=\"388\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1371,640,388,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/22"
     },
     {
@@ -562,20 +263,7 @@
         "value": "Beauty — 74A Atlantic Ave. — JERSEY CITY, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=546,308,334,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"546\" y=\"308\" width=\"334\" height=\"26\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=546,308,334,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/23"
     },
     {
@@ -586,20 +274,7 @@
         "value": "Bell's — 630 Cummunipaw Ave. — JERSEY CITY, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1371,862,474,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1371\" y=\"862\" width=\"474\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1371,862,474,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/24"
     },
     {
@@ -610,20 +285,7 @@
         "value": "Ε. & Ε. — 11A Oak St. — JERSEY CITY, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1371,894,364,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1371\" y=\"894\" width=\"364\" height=\"26\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1371,894,364,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/25"
     },
     {
@@ -634,20 +296,7 @@
         "value": "Merrill's — KINGSTON, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1371,1030,131,25"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1371\" y=\"1030\" width=\"131\" height=\"25\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1371,1030,131,25",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/26"
     },
     {
@@ -658,20 +307,7 @@
         "value": "Green Grove Inn — Atlantic & Hal-\nsey Street — KEYPORT, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1369,1163,705,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1369\" y=\"1163\" width=\"705\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1369,1163,705,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/27"
     },
     {
@@ -682,20 +318,7 @@
         "value": "Major's — 215 Atlantic Ave. — KEYPORT, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1369,1246,438,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1369\" y=\"1246\" width=\"438\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1369,1246,438,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/28"
     },
     {
@@ -706,20 +329,7 @@
         "value": "Driver's — 17th & Monroe Ave. — KENNELWORTH, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1375,1382,479,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1375\" y=\"1382\" width=\"479\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1375,1382,479,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/29"
     },
     {
@@ -730,20 +340,7 @@
         "value": "Hi-Hat — White Horse Pike — LAWNSIDE, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,1528,432,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"1528\" width=\"432\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1363,1528,432,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/30"
     },
     {
@@ -754,20 +351,7 @@
         "value": "Acorn Inn — Whitehorse Pike — LAWNSIDE, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1373,1600,441,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1373\" y=\"1600\" width=\"441\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1373,1600,441,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/31"
     },
     {
@@ -778,20 +362,7 @@
         "value": "Dreamland — LAWNSIDE, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1371,1634,166,23"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1371\" y=\"1634\" width=\"166\" height=\"23\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1371,1634,166,23",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/32"
     },
     {
@@ -802,20 +373,7 @@
         "value": "La Belle Inn — Gloucester Ave. — LAWNSIDE, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1369,1663,479,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1369\" y=\"1663\" width=\"479\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1369,1663,479,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/33"
     },
     {
@@ -826,20 +384,7 @@
         "value": "Thelma Thomas — Warwick Blvd. — LAWNSIDE, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1373,1735,509,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1373\" y=\"1735\" width=\"509\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1373,1735,509,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/34"
     },
     {
@@ -850,20 +395,7 @@
         "value": "Henry Smith — Mouldy Road — LAWNSIDE, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1373,1809,443,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1373\" y=\"1809\" width=\"443\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1373,1809,443,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/35"
     },
     {
@@ -874,20 +406,7 @@
         "value": "Lawnside Park — LAWNSIDE, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1373,1882,232,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1373\" y=\"1882\" width=\"232\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1373,1882,232,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/36"
     },
     {
@@ -898,20 +417,7 @@
         "value": "4th Ward Club — 1035 Baltimore — LINDEN, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1374,2013,500,34"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1374\" y=\"2013\" width=\"500\" height=\"34\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1374,2013,500,34",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/37"
     },
     {
@@ -922,20 +428,7 @@
         "value": "Victory — 1307 Baltimore Avenue — LINDEN, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1369,2091,668,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1369\" y=\"2091\" width=\"668\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1369,2091,668,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/38"
     },
     {
@@ -946,20 +439,7 @@
         "value": "Quality — 1140 E. St. George Ave. — LINDEN, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1375,2169,543,34"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1375\" y=\"2169\" width=\"543\" height=\"34\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1375,2169,543,34",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/39"
     },
     {
@@ -970,20 +450,7 @@
         "value": "Club '45' — Liberty St. — LONG BRANCH, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1377,2307,352,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1377\" y=\"2307\" width=\"352\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1377,2307,352,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/40"
     },
     {
@@ -994,20 +461,7 @@
         "value": "Sam Hall — 18 Academy St. — LONG BRANCH, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1377,2342,435,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1377\" y=\"2342\" width=\"435\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1377,2342,435,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/41"
     },
     {
@@ -1018,20 +472,7 @@
         "value": "Tally-Ho — 185 Belmont Ave. — LONG BRANCH, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1377,2371,455,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1377\" y=\"2371\" width=\"455\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207670/full/!760,760/0/default.jpg#xywh=1377,2371,455,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0053_5207670_gemini-2.0-flash_box_annotations.json/entry/42"
     }
   ],

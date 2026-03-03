@@ -10,20 +10,7 @@
         "value": "Aztex Room — 1147 Springwood Ave. — ASBURY PARK, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,298,568,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"298\" width=\"568\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,298,568,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/0"
     },
     {
@@ -34,20 +21,7 @@
         "value": "Capitol — 1212 Springwood Ave. — ASBURY PARK, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,329,488,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"329\" width=\"488\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,329,488,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/1"
     },
     {
@@ -58,20 +32,7 @@
         "value": "Hollywood — 1318 Springwood Aye. — ASBURY PARK, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,360,544,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"360\" width=\"544\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,360,544,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/2"
     },
     {
@@ -82,20 +43,7 @@
         "value": "2-Door — 1512 Springwood Ave. — ASBURY PARK, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=577,392,492,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"577\" y=\"392\" width=\"492\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=577,392,492,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/3"
     },
     {
@@ -106,20 +54,7 @@
         "value": "Cuba's — Springwood Ave. — ASBURY PARK, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,464,401,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"464\" width=\"401\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,464,401,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/4"
     },
     {
@@ -130,20 +65,7 @@
         "value": "Johnson — Springwood & DeWitt Place — ASBURY PARK, NEW JERSEY — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,537,585,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"537\" width=\"585\" height=\"29\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,537,585,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/5"
     },
     {
@@ -154,20 +76,7 @@
         "value": "Arrington — 153 Ridge Ave. — ASBURY PARK, NEW JERSEY — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,610,425,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"610\" width=\"425\" height=\"30\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,610,425,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/6"
     },
     {
@@ -178,20 +87,7 @@
         "value": "West Side — 1206 Springwood Ave. — ASBURY PARK, NEW JERSEY — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,640,532,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"640\" width=\"532\" height=\"31\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,640,532,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/7"
     },
     {
@@ -202,20 +98,7 @@
         "value": "Liberty — 1519 Baltic Avenue — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=566,787,471,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"566\" y=\"787\" width=\"471\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=566,787,471,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/8"
     },
     {
@@ -226,20 +109,7 @@
         "value": "Bay State — N. Tenn. Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=527,818,457,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"527\" y=\"818\" width=\"457\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=527,818,457,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/9"
     },
     {
@@ -250,20 +120,7 @@
         "value": "Randell — 1601 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,849,416,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"849\" width=\"416\" height=\"26\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,849,416,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/10"
     },
     {
@@ -274,20 +131,7 @@
         "value": "Ridley — 1806 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,879,398,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"879\" width=\"398\" height=\"32\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,879,398,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/11"
     },
     {
@@ -298,20 +142,7 @@
         "value": "Swan — 136 N. Virginia Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=569,912,457,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"569\" y=\"912\" width=\"457\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=569,912,457,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/12"
     },
     {
@@ -322,20 +153,7 @@
         "value": "Wright — 1702 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,943,406,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"943\" width=\"406\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,943,406,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/13"
     },
     {
@@ -346,20 +164,7 @@
         "value": "Capitol — 37 N. Ky. Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,329,488,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"329\" width=\"488\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,329,488,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/14"
     },
     {
@@ -370,20 +175,7 @@
         "value": "Lincoln — 911 N. Indiana Ave.. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=577,1006,467,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"577\" y=\"1006\" width=\"467\" height=\"27\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=577,1006,467,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/15"
     },
     {
@@ -394,20 +186,7 @@
         "value": "Luzon — 601 N. Ohio Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=576,1036,413,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"576\" y=\"1036\" width=\"413\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=576,1036,413,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/16"
     },
     {
@@ -418,20 +197,7 @@
         "value": "Attucks — 1120 Drexel Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=579,1066,417,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"579\" y=\"1066\" width=\"417\" height=\"33\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=579,1066,417,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/17"
     },
     {
@@ -442,20 +208,7 @@
         "value": "Apex Rest — Indiana & Ontario — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1100,480,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1100\" width=\"480\" height=\"28\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,1100,480,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/18"
     },
     {
@@ -466,20 +219,7 @@
         "value": "A. R. S. Goss — 324 N. Indiana Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,1172,619,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"1172\" width=\"619\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,1172,619,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/19"
     },
     {
@@ -490,20 +230,7 @@
         "value": "Mrs. V. Jones — 1720 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=572,1201,533,34"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"572\" y=\"1201\" width=\"533\" height=\"34\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=572,1201,533,34",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/20"
     },
     {
@@ -514,20 +241,7 @@
         "value": "M. Conte — 111 N. Indiana Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1235,544,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1235\" width=\"544\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,1235,544,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/21"
     },
     {
@@ -538,20 +252,7 @@
         "value": "E. Satchell — 27 N. Michigan Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,1266,559,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"1266\" width=\"559\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,1266,559,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/22"
     },
     {
@@ -562,20 +263,7 @@
         "value": "Bailey's Cottage — 1812 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1299,550,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1299\" width=\"550\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,1299,550,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/23"
     },
     {
@@ -586,20 +274,7 @@
         "value": "D. Austin — 813 Battle Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=567,1330,477,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"567\" y=\"1330\" width=\"477\" height=\"26\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=567,1330,477,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/24"
     },
     {
@@ -610,20 +285,7 @@
         "value": "R. Brown — 113 N. Penn. Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=572,1360,511,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"572\" y=\"1360\" width=\"511\" height=\"27\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=572,1360,511,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/25"
     },
     {
@@ -634,20 +296,7 @@
         "value": "Golden's — 41 N. Kentucky Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=577,1432,499,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"577\" y=\"1432\" width=\"499\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=577,1432,499,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/26"
     },
     {
@@ -658,20 +307,7 @@
         "value": "Little Diner — 104 N. Kentucky Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1462,569,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1462\" width=\"569\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,1462,569,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/27"
     },
     {
@@ -682,20 +318,7 @@
         "value": "Smack Shack — 40 N. Kentucky Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1497,569,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1497\" width=\"569\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,1497,569,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/28"
     },
     {
@@ -706,20 +329,7 @@
         "value": "Eddie's — 1702 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=566,1528,423,25"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"566\" y=\"1528\" width=\"423\" height=\"25\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=566,1528,423,25",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/29"
     },
     {
@@ -730,20 +340,7 @@
         "value": "Perry's — Kentucky Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=570,1559,372,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"570\" y=\"1559\" width=\"372\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=570,1559,372,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/30"
     },
     {
@@ -754,20 +351,7 @@
         "value": "Young's — 18 N. Ohio Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=570,1588,431,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"570\" y=\"1588\" width=\"431\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=570,1588,431,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/31"
     },
     {
@@ -778,20 +362,7 @@
         "value": "Anderson's — 1702 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=572,1619,472,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"572\" y=\"1619\" width=\"472\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=572,1619,472,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/32"
     },
     {
@@ -802,20 +373,7 @@
         "value": "Bedford's — Artic & S. Carolina Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,1653,607,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"1653\" width=\"607\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,1653,607,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/33"
     },
     {
@@ -826,20 +384,7 @@
         "value": "Kelly's — 1311 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1683,434,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1683\" width=\"434\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,1683,434,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/34"
     },
     {
@@ -850,20 +395,7 @@
         "value": "42 N. Illinois Ave. — ATLANTIC CITY, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,1754,330,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"1754\" width=\"330\" height=\"29\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,1754,330,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/35"
     },
     {
@@ -874,20 +406,7 @@
         "value": "Hollywood — 811 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,360,544,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"360\" width=\"544\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,360,544,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/36"
     },
     {
@@ -898,20 +417,7 @@
         "value": "Hunter's — 1814 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,1817,452,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"1817\" width=\"452\" height=\"30\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,1817,452,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/37"
     },
     {
@@ -922,20 +428,7 @@
         "value": "Mme. Newson's — 225 N. Indiana Ave. — ATLANTIC CITY, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=577,1891,613,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"577\" y=\"1891\" width=\"613\" height=\"28\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=577,1891,613,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/38"
     },
     {
@@ -946,20 +439,7 @@
         "value": "Grace's — 43 Kentucky Ave. — ATLANTIC CITY, NEW JERSEY — [Barber / Beauty]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,1925,429,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"1925\" width=\"429\" height=\"26\" fill=\"rgba(175,55,210,0.24)\" stroke=\"rgb(150,35,185)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,1925,429,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/39"
     },
     {
@@ -970,20 +450,7 @@
         "value": "Wonder Bar — 1601 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=569,1996,505,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"569\" y=\"1996\" width=\"505\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=569,1996,505,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/40"
     },
     {
@@ -994,20 +461,7 @@
         "value": "Little Belmont — 37 N. Kentucky Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=572,2028,591,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"572\" y=\"2028\" width=\"591\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=572,2028,591,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/41"
     },
     {
@@ -1018,20 +472,7 @@
         "value": "Hattie's — 1913 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=570,2059,424,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"570\" y=\"2059\" width=\"424\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=570,2059,424,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/42"
     },
     {
@@ -1042,20 +483,7 @@
         "value": "Daddy Lew's — Bay & Baltic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=572,2091,513,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"572\" y=\"2091\" width=\"513\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=572,2091,513,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/43"
     },
     {
@@ -1066,20 +494,7 @@
         "value": "Mack's — 1590 Baltic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=566,2122,423,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"566\" y=\"2122\" width=\"423\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=566,2122,423,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/44"
     },
     {
@@ -1090,20 +505,7 @@
         "value": "Popular — 1923 Artic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,2154,399,25"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"2154\" width=\"399\" height=\"25\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,2154,399,25",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/45"
     },
     {
@@ -1114,20 +516,7 @@
         "value": "Elite — Baltic & Chalfonte Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=577,2183,470,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"577\" y=\"2183\" width=\"470\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=577,2183,470,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/46"
     },
     {
@@ -1138,20 +527,7 @@
         "value": "Herman's — Maryland & Artic — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,2213,455,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"2213\" width=\"455\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,2213,455,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/47"
     },
     {
@@ -1162,20 +538,7 @@
         "value": "Prince's — 37 N. Michigan Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=572,2247,487,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"572\" y=\"2247\" width=\"487\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=572,2247,487,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/48"
     },
     {
@@ -1186,20 +549,7 @@
         "value": "Austins — Maryland & Baltic — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=575,2277,437,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"575\" y=\"2277\" width=\"437\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=575,2277,437,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/49"
     },
     {
@@ -1210,20 +560,7 @@
         "value": "Golden's — 41 N. Ky. Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=577,1432,499,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"577\" y=\"1432\" width=\"499\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=577,1432,499,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/50"
     },
     {
@@ -1234,20 +571,7 @@
         "value": "Elks Bar & Grill — 1613 Artic — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=577,2340,438,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"577\" y=\"2340\" width=\"438\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=577,2340,438,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/51"
     },
     {
@@ -1258,20 +582,7 @@
         "value": "Lighthouse — 1613 Baltic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=573,2373,464,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"573\" y=\"2373\" width=\"464\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=573,2373,464,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/52"
     },
     {
@@ -1282,20 +593,7 @@
         "value": "New Jersey — N. J. & Mediterranean — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1364,262,576,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1364\" y=\"262\" width=\"576\" height=\"30\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1364,262,576,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/53"
     },
     {
@@ -1306,20 +604,7 @@
         "value": "Circus — 37 N. Michigan Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1366,293,462,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1366\" y=\"293\" width=\"462\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1366,293,462,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/54"
     },
     {
@@ -1330,20 +615,7 @@
         "value": "My Own — 701 Baltic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1364,326,433,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1364\" y=\"326\" width=\"433\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1364,326,433,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/55"
     },
     {
@@ -1354,20 +626,7 @@
         "value": "Tim Buck Two — 1600 Artic Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1366,357,523,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1366\" y=\"357\" width=\"523\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1366,357,523,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/56"
     },
     {
@@ -1378,20 +637,7 @@
         "value": "Harlem — 32 N. Kentucky Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1368,430,489,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1368\" y=\"430\" width=\"489\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1368,430,489,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/57"
     },
     {
@@ -1402,20 +648,7 @@
         "value": "Paradise — N. Illinois Ave. — ATLANTIC CITY, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1368,460,410,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1368\" y=\"460\" width=\"410\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1368,460,410,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/58"
     },
     {
@@ -1426,20 +659,7 @@
         "value": "Mark's — 1923 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1357,533,418,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1357\" y=\"533\" width=\"418\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1357,533,418,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/59"
     },
     {
@@ -1450,20 +670,7 @@
         "value": "Timbucktu — 1608 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,563,461,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"563\" width=\"461\" height=\"33\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1363,563,461,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/60"
     },
     {
@@ -1474,20 +681,7 @@
         "value": "Tumble Inn — Delaware & Baltic — ATLANTIC CITY, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1366,596,497,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1366\" y=\"596\" width=\"497\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1366,596,497,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/61"
     },
     {
@@ -1498,20 +692,7 @@
         "value": "Goodman's — 1317 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1364,629,467,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1364\" y=\"629\" width=\"467\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1364,629,467,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/62"
     },
     {
@@ -1522,20 +703,7 @@
         "value": "Mundy's — 1814 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,703,436,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"703\" width=\"436\" height=\"27\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1363,703,436,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/63"
     },
     {
@@ -1546,20 +714,7 @@
         "value": "Johnson's — 11-15 Ohio Ave. — ATLANTIC CITY, NEW JERSEY — [Service Stations]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1364,774,435,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1364\" y=\"774\" width=\"435\" height=\"27\" fill=\"rgba(195,148,0,0.24)\" stroke=\"rgb(165,125,0)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1364,774,435,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/64"
     },
     {
@@ -1570,20 +725,7 @@
         "value": "London's — Cor. Ky. & Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,850,531,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"850\" width=\"531\" height=\"27\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1363,850,531,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/65"
     },
     {
@@ -1594,20 +736,7 @@
         "value": "Tennis Club Tea Room — Prospect Ave. — ATLANTIC HIGHLANDS, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1364,1006,617,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1364\" y=\"1006\" width=\"617\" height=\"29\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1364,1006,617,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/66"
     },
     {
@@ -1618,20 +747,7 @@
         "value": "New Way Inn — 71 Ave. 'A' — ATLANTIC HIGHLANDS, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1334,1075,473,33"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1334\" y=\"1075\" width=\"473\" height=\"33\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1334,1075,473,33",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/67"
     },
     {
@@ -1642,20 +758,7 @@
         "value": "Doc's — 67 W. 23rd St. — BAYONNE, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1361,1233,373,32"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1361\" y=\"1233\" width=\"373\" height=\"32\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1361,1233,373,32",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/68"
     },
     {
@@ -1666,20 +769,7 @@
         "value": "John's — 463 Ave 'C' — BAYONNE, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1364,1267,327,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1364\" y=\"1267\" width=\"327\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1364,1267,327,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/69"
     },
     {
@@ -1690,20 +780,7 @@
         "value": "Golden Arrow — 545 Hudson Blvd. — BAYONNE, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,1297,533,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"1297\" width=\"533\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1363,1297,533,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/70"
     },
     {
@@ -1714,20 +791,7 @@
         "value": "Bell Meade — Rt. 31 — BELL MEADE, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1477,1364,318,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1477\" y=\"1364\" width=\"318\" height=\"31\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1477,1364,318,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/71"
     },
     {
@@ -1738,20 +802,7 @@
         "value": "The Ram's Inn — Bridgeston & Millville Pike — BRIDGESTON, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,1591,708,31"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"1591\" width=\"708\" height=\"31\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1363,1591,708,31",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/72"
     },
     {
@@ -1762,20 +813,7 @@
         "value": "Bar-B-Q — 818 S. 9th St. — CAMDEN, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1364,1748,394,27"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1364\" y=\"1748\" width=\"394\" height=\"27\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1364,1748,394,27",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/73"
     },
     {
@@ -1786,20 +824,7 @@
         "value": "Lon's — 806 Kaign Ave. — CAMDEN, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1349,1821,385,28"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1349\" y=\"1821\" width=\"385\" height=\"28\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1349,1821,385,28",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/74"
     },
     {
@@ -1810,20 +835,7 @@
         "value": "Nick's — 7th & Central Ave. — CAMDEN, NEW JERSEY — [Restaurants / Bars]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,1894,435,26"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"1894\" width=\"435\" height=\"26\" fill=\"rgba(210,55,45,0.24)\" stroke=\"rgb(185,35,25)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1363,1894,435,26",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/75"
     },
     {
@@ -1834,20 +846,7 @@
         "value": "Merchant — 741 Kaign Ave. — CAMDEN, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,1967,435,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"1967\" width=\"435\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1363,1967,435,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/76"
     },
     {
@@ -1858,20 +857,7 @@
         "value": "Richardson — Broad & Jackson Sts. — CAPE MAY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1353,2123,552,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1353\" y=\"2123\" width=\"552\" height=\"29\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1353,2123,552,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/77"
     },
     {
@@ -1882,20 +868,7 @@
         "value": "De Griff — 83) Corgie St. — CAPE MAY, NEW JERSEY — [Hotels / Motels]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1361,2154,404,30"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1361\" y=\"2154\" width=\"404\" height=\"30\" fill=\"rgba(50,110,220,0.24)\" stroke=\"rgb(40,90,200)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1361,2154,404,30",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/78"
     },
     {
@@ -1906,20 +879,7 @@
         "value": "Mrs. M. Green — 728 Lafayette St. — CAPE MAY, NEW JERSEY — [Tourist Homes]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1363,2227,528,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1363\" y=\"2227\" width=\"528\" height=\"29\" fill=\"rgba(0,185,170,0.24)\" stroke=\"rgb(0,155,140)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1363,2227,528,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/79"
     },
     {
@@ -1930,20 +890,7 @@
         "value": "The Shady Oak Lodge — CEDAR KNOLL, NEW JERSEY — [Other]",
         "format": "text/plain"
       },
-      "target": {
-        "source": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg",
-        "selector": [
-          {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1361,2374,347,29"
-          },
-          {
-            "type": "SvgSelector",
-            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2560 2560\"><rect x=\"1361\" y=\"2374\" width=\"347\" height=\"29\" fill=\"rgba(110,110,130,0.24)\" stroke=\"rgb(85,85,105)\" stroke-width=\"3\"/></svg>"
-          }
-        ]
-      },
+      "target": "https://iiif.nypl.org/iiif/3/5207669/full/!760,760/0/default.jpg#xywh=1361,2374,347,29",
       "id": "https://hadro.github.io/green-book-iiif-test/0052_5207669_gemini-2.0-flash_box_annotations.json/entry/80"
     }
   ],

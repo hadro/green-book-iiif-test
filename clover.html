@@ -38,15 +38,19 @@
       }
     }
 
-    // Create the web component before the script finishes so id is set before
+    // Create the web component before appending so attributes are set before
     // the custom element upgrades (avoids a flash of wrong content).
     var el = document.createElement("clover-viewer");
 
-    // Try passing the raw encoded content state as id — Clover claims content
-    // state support and may accept the encoded annotation directly, enabling
-    // canvas-level navigation. Fall back to manifest URI when no content state
-    // is present.
-    el.setAttribute("id", iiifContent || manifestId);
+    // id must always be the manifest URI — Clover fetches it as JSON.
+    el.setAttribute("id", manifestId);
+
+    // Try passing the encoded content state via the iiif-content attribute
+    // (kebab-case mapping of the React iiifContent prop). If the web component
+    // supports it, this enables canvas-level navigation.
+    if (iiifContent) {
+      el.setAttribute("iiif-content", iiifContent);
+    }
 
     document.body.appendChild(el);
   </script>

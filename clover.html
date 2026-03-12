@@ -42,15 +42,10 @@
     // the custom element upgrades (avoids a flash of wrong content).
     var el = document.createElement("clover-viewer");
 
-    // id must always be the manifest URI — Clover fetches it as JSON.
+    // id must be the manifest URI — Clover fetches it as JSON.
+    // Canvas-level navigation via iiif-content attribute is not yet supported
+    // in the web component; opening at the correct manifest is the reliable baseline.
     el.setAttribute("id", manifestId);
-
-    // Try passing the encoded content state via the iiif-content attribute
-    // (kebab-case mapping of the React iiifContent prop). If the web component
-    // supports it, this enables canvas-level navigation.
-    if (iiifContent) {
-      el.setAttribute("iiif-content", iiifContent);
-    }
 
     document.body.appendChild(el);
   </script>

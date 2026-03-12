@@ -11,8 +11,9 @@
   </style>
 </head>
 <body>
-  <script src="https://unpkg.com/@samvera/clover-iiif@latest/dist/web-components/index.umd.js"></script>
-
+  <!-- Compute manifest ID and insert the element BEFORE Clover's script
+       registers the custom element, so the element is already in the DOM
+       with the correct id when the upgrade fires. -->
   <script>
     var DEFAULT_MANIFEST = "https://hadro.github.io/green-book-iiif-test/manifest.json";
 
@@ -38,16 +39,15 @@
       }
     }
 
-    // Create the web component before appending so attributes are set before
-    // the custom element upgrades (avoids a flash of wrong content).
-    var el = document.createElement("clover-viewer");
-
-    // id must be the manifest URI — Clover fetches it as JSON.
-    // Canvas-level navigation via iiif-content attribute is not yet supported
-    // in the web component; opening at the correct manifest is the reliable baseline.
-    el.setAttribute("id", manifestId);
-
-    document.body.appendChild(el);
+    // Insert the element now — before Clover loads — so it is already in the
+    // DOM with the correct id when customElements.define fires the upgrade.
+    document.currentScript.insertAdjacentHTML(
+      "afterend",
+      '<clover-viewer id="' + manifestId.replace(/"/g, "&quot;") + '"></clover-viewer>'
+    );
   </script>
+
+  <!-- Load Clover after the element is in the DOM -->
+  <script src="https://unpkg.com/@samvera/clover-iiif@3.3.8/dist/web-components/index.umd.js"></script>
 </body>
 </html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Green Book 1947 — Clover IIIF Viewer</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { height: 100%; overflow: hidden; }
+    clover-viewer { display: block; height: 100%; }
+  </style>
+</head>
+<body>
+  <script src="https://unpkg.com/@samvera/clover-iiif@latest/dist/web-components/index.umd.js"></script>
+
+  <script>
+    var DEFAULT_MANIFEST = "https://hadro.github.io/green-book-iiif-test/manifest.json";
+
+    function decodeContentState(encoded) {
+      try {
+        var b64 = encoded.replace(/-/g, "+").replace(/_/g, "/");
+        while (b64.length % 4) b64 += "=";
+        return JSON.parse(atob(b64));
+      } catch (e) {
+        console.warn("iiif-content decode failed:", e);
+        return null;
+      }
+    }
+
+    var iiifContent = new URLSearchParams(window.location.search).get("iiif-content");
+    var manifestId = DEFAULT_MANIFEST;
+
+    if (iiifContent) {
+      var state = decodeContentState(iiifContent);
+      if (state && state.target) {
+        var target = state.target;
+        manifestId = (target.partOf && target.partOf[0] && target.partOf[0].id) || DEFAULT_MANIFEST;
+      }
+    }
+
+    // Create the web component before the script finishes so id is set before
+    // the custom element upgrades (avoids a flash of wrong content).
+    var el = document.createElement("clover-viewer");
+
+    // Try passing the raw encoded content state as id — Clover claims content
+    // state support and may accept the encoded annotation directly, enabling
+    // canvas-level navigation. Fall back to manifest URI when no content state
+    // is present.
+    el.setAttribute("id", iiifContent || manifestId);
+
+    document.body.appendChild(el);
+  </script>
+</body>
+</html>

@@ -11,9 +11,6 @@
   </style>
 </head>
 <body>
-  <!-- Compute manifest ID and insert the element BEFORE Clover's script
-       registers the custom element, so the element is already in the DOM
-       with the correct id when the upgrade fires. -->
   <script>
     var DEFAULT_MANIFEST = "https://hadro.github.io/green-book-iiif-test/manifest.json";
 
@@ -28,26 +25,115 @@
       }
     }
 
-    var iiifContent = new URLSearchParams(window.location.search).get("iiif-content");
-    var manifestId = DEFAULT_MANIFEST;
+    function encodeContentState(obj) {
+      return btoa(JSON.stringify(obj))
+        .replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+    }
 
-    if (iiifContent) {
-      var state = decodeContentState(iiifContent);
+    // Extract the IIIF Image service base URL from a body's service array
+    function serviceId(service) {
+      if (!service) return "";
+      var s = Array.isArray(service) ? service[0] : service;
+      return (s && (s.id || s["@id"])) || "";
+    }
+
+    // Build {imageServiceBase → newCanvasId} index from a fetched manifest
+    function buildCanvasIndex(manifest) {
+      var index = {};
+      for (var canvas of (manifest.items || [])) {
+        try {
+          var body = canvas.items[0].items[0].body;
+          var svc = serviceId(body.service);
+          if (svc) index[svc] = canvas.id;
+        } catch (e) {}
+      }
+      return index;
+    }
+
+    // Given an old NYPL canvas URL, strip the /full/... suffix to get the
+    // image service base so it can be matched against the manifest index.
+    // e.g. https://iiif.nypl.org/iiif/3/5207623/full/!760,760/0/default.jpg
+    //   → https://iiif.nypl.org/iiif/3/5207623
+    function oldCanvasToServiceBase(oldCanvasId) {
+      return oldCanvasId.replace(/\/full\/.*$/, "");
+    }
+
+    var iiifContentParam = new URLSearchParams(window.location.search).get("iiif-content");
+    var manifestUrl = DEFAULT_MANIFEST;
+    var rawTargetId = "";   // may include #xywh=
+    var hasContentState = false;
+
+    if (iiifContentParam) {
+      var state = decodeContentState(iiifContentParam);
       if (state && state.target) {
         var target = state.target;
-        manifestId = (target.partOf && target.partOf[0] && target.partOf[0].id) || DEFAULT_MANIFEST;
+        rawTargetId = (typeof target === "string" ? target : (target.id || ""));
+        manifestUrl = (target.partOf && target.partOf[0] && target.partOf[0].id) || DEFAULT_MANIFEST;
+        hasContentState = !!rawTargetId;
       }
     }
 
-    // Insert the element now — before Clover loads — so it is already in the
-    // DOM with the correct id when customElements.define fires the upgrade.
-    document.currentScript.insertAdjacentHTML(
-      "afterend",
-      '<clover-viewer id="' + manifestId.replace(/"/g, "&quot;") + '"></clover-viewer>'
-    );
+    // Insert <clover-viewer> into the DOM now (before Clover's script loads)
+    // so the custom element is upgraded with the correct attribute set.
+    var el = document.createElement("clover-viewer");
+
+    if (!hasContentState) {
+      // No content state — just open the manifest at canvas 0.
+      el.setAttribute("id", manifestUrl);
+      document.currentScript.insertAdjacentElement("afterend", el);
+    } else {
+      // We have a content state with a (possibly old) canvas ID.
+      // Fetch the manifest, translate the canvas ID to the current URI,
+      // then pass a corrected encoded content state via iiif-content.
+      // While fetching, show the manifest at canvas 0 so the viewer
+      // is not blank.
+      el.setAttribute("id", manifestUrl);
+      document.currentScript.insertAdjacentElement("afterend", el);
+
+      fetch(manifestUrl)
+        .then(function(r) { return r.json(); })
+        .then(function(manifest) {
+          var index = buildCanvasIndex(manifest);
+
+          // Split off #xywh= fragment to translate the base canvas ID
+          var fragment = "";
+          var oldBase = rawTargetId;
+          if (rawTargetId.includes("#")) {
+            oldBase = rawTargetId.split("#")[0];
+            fragment = "#" + rawTargetId.split("#")[1];
+          }
+
+          var svcBase = oldCanvasToServiceBase(oldBase);
+          var newCanvasId = index[svcBase] || index[oldBase];
+
+          if (!newCanvasId) {
+            // Canvas not found in mapping — manifest may already use correct IDs
+            newCanvasId = oldBase;
+          }
+
+          var newState = {
+            "@context": "http://iiif.io/api/presentation/3/context.json",
+            "type": "Annotation",
+            "motivation": "contentState",
+            "target": {
+              "id": newCanvasId + fragment,
+              "type": "Canvas",
+              "partOf": [{ "id": manifestUrl, "type": "Manifest" }]
+            }
+          };
+
+          // Switch from id-based loading to iiif-content so Clover navigates
+          // to the correct canvas (and zooms to the #xywh region if present).
+          el.removeAttribute("id");
+          el.setAttribute("iiif-content", encodeContentState(newState));
+        })
+        .catch(function(e) {
+          console.warn("Canvas ID translation failed:", e);
+          // Viewer is already showing the manifest — just leave it.
+        });
+    }
   </script>
 
-  <!-- Load Clover after the element is in the DOM -->
   <script src="https://unpkg.com/@samvera/clover-iiif@3.3.8/dist/web-components/index.umd.js"></script>
 </body>
 </html>

@@ -25,11 +25,6 @@
       }
     }
 
-    function encodeContentState(obj) {
-      return btoa(JSON.stringify(obj))
-        .replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
-    }
-
     // Extract the IIIF Image service base URL from a body's service array
     function serviceId(service) {
       if (!service) return "";
@@ -37,7 +32,7 @@
       return (s && (s.id || s["@id"])) || "";
     }
 
-    // Build {imageServiceBase → newCanvasId} index from a fetched manifest
+    // Build {imageServiceBase → canvasId} index from a fetched manifest
     function buildCanvasIndex(manifest) {
       var index = {};
       for (var canvas of (manifest.items || [])) {
@@ -58,44 +53,64 @@
       return oldCanvasId.replace(/\/full\/.*$/, "");
     }
 
+    // Clover's iiif-content web-component attribute is broken for base64url
+    // content states (github.com/samvera-labs/clover-iiif/issues/312).
+    // Workaround: encode the content state as a blob URL and pass it as id.
+    // Clover fetches blob URLs via XHR, parses them as IIIF resources, and
+    // navigates to the canvas via the same internal p-effect code path.
+    function contentStateToBlobId(stateObj) {
+      var json = JSON.stringify(stateObj);
+      var blob = new Blob([json], { type: "application/json" });
+      return URL.createObjectURL(blob);
+    }
+
     var iiifContentParam = new URLSearchParams(window.location.search).get("iiif-content");
     var manifestUrl = DEFAULT_MANIFEST;
     var rawTargetId = "";   // may include #xywh=
     var hasContentState = false;
+    var decodedState = null;
 
     if (iiifContentParam) {
       var state = decodeContentState(iiifContentParam);
       if (state && state.target) {
+        decodedState = state;
         var target = state.target;
-        rawTargetId = (typeof target === "string" ? target : (target.id || ""));
-        manifestUrl = (target.partOf && target.partOf[0] && target.partOf[0].id) || DEFAULT_MANIFEST;
+        // SpecificResource format: canvas id is under target.source.id
+        var source = (target.type === "SpecificResource" && target.source) ? target.source : target;
+        rawTargetId = (typeof source === "string" ? source : (source.id || ""));
+        manifestUrl = (source.partOf && source.partOf[0] && source.partOf[0].id) || DEFAULT_MANIFEST;
         hasContentState = !!rawTargetId;
       }
     }
 
-    // Insert <clover-viewer> into the DOM now (before Clover's script loads)
-    // so the custom element is upgraded with the correct attribute set.
     var el = document.createElement("clover-viewer");
+    // Save reference to currentScript — it becomes null inside async callbacks.
+    var insertAnchor = document.currentScript;
 
     if (!hasContentState) {
       // No content state — just open the manifest at canvas 0.
       el.setAttribute("id", manifestUrl);
-      document.currentScript.insertAdjacentElement("afterend", el);
+      insertAnchor.insertAdjacentElement("afterend", el);
+    } else if (
+      decodedState &&
+      decodedState.id &&
+      Array.isArray(decodedState.motivation) &&
+      decodedState.target.type === "SpecificResource"
+    ) {
+      // Already Clover-compatible SpecificResource format — no canvas ID
+      // translation needed. Use blob workaround for the iiif-content bug.
+      el.setAttribute("id", contentStateToBlobId(decodedState));
+      insertAnchor.insertAdjacentElement("afterend", el);
     } else {
-      // We have a content state with a (possibly old) canvas ID.
-      // Fetch the manifest, translate the canvas ID to the current URI,
-      // then pass a corrected encoded content state via iiif-content.
-      // While fetching, show the manifest at canvas 0 so the viewer
-      // is not blank.
-      el.setAttribute("id", manifestUrl);
-      document.currentScript.insertAdjacentElement("afterend", el);
-
+      // We have a content state with a (possibly old) NYPL canvas ID.
+      // Fetch the manifest, translate the canvas ID, build a proper
+      // SpecificResource content state, then serve it as a blob URL.
       fetch(manifestUrl)
         .then(function(r) { return r.json(); })
         .then(function(manifest) {
           var index = buildCanvasIndex(manifest);
 
-          // Split off #xywh= fragment to translate the base canvas ID
+          // Split off #xywh= fragment to translate the base canvas ID only
           var fragment = "";
           var oldBase = rawTargetId;
           if (rawTargetId.includes("#")) {
@@ -111,29 +126,43 @@
             newCanvasId = oldBase;
           }
 
-          var newState = {
-            "@context": "http://iiif.io/api/presentation/3/context.json",
-            "type": "Annotation",
-            "motivation": "contentState",
-            "target": {
-              "id": newCanvasId + fragment,
+          // Build a SpecificResource content state matching Clover's own format:
+          // top-level id, motivation as array, SpecificResource target with
+          // optional FragmentSelector for the xywh region.
+          var csTarget = {
+            "type": "SpecificResource",
+            "source": {
+              "id": newCanvasId,
               "type": "Canvas",
               "partOf": [{ "id": manifestUrl, "type": "Manifest" }]
             }
           };
+          if (fragment) {
+            csTarget["selector"] = {
+              "type": "FragmentSelector",
+              "value": fragment.slice(1)   // strip leading "#"
+            };
+          }
+          var newState = {
+            "@context": "http://iiif.io/api/presentation/3/context.json",
+            "id": newCanvasId + (fragment || "") + "/content-state",
+            "type": "Annotation",
+            "motivation": ["contentState"],
+            "target": csTarget
+          };
 
-          // Switch from id-based loading to iiif-content so Clover navigates
-          // to the correct canvas (and zooms to the #xywh region if present).
-          el.removeAttribute("id");
-          el.setAttribute("iiif-content", encodeContentState(newState));
+          el.setAttribute("id", contentStateToBlobId(newState));
+          insertAnchor.insertAdjacentElement("afterend", el);
         })
         .catch(function(e) {
           console.warn("Canvas ID translation failed:", e);
-          // Viewer is already showing the manifest — just leave it.
+          // Fall back to opening the manifest at canvas 0.
+          el.setAttribute("id", manifestUrl);
+          insertAnchor.insertAdjacentElement("afterend", el);
         });
     }
   </script>
 
-  <script src="https://unpkg.com/@samvera/clover-iiif@3.3.8/dist/web-components/index.umd.js"></script>
+  <script src="clover.umd.patched.js"></script>
 </body>
 </html>
